@@ -1,3 +1,3 @@
 for file in *.txt; do
-    mv -- "$file" "${file%.txt}.text"
+    mv -- "$file" "${file%.txt}.html"
 done
