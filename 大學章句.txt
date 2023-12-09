@@ -1,9 +1,45 @@
-.of old, the great learning of books has been the way of teaching people. 
+Synopsis
+---------
+It is a shame how little english literature there is presently on Confucianism, even more so Neo Confucianism; this great philsophical and spiritual tradition has been left relatively untouched by western scholarship and thus in this writting, the first of a series on Zhu xi's commentaries, I aim, even with my relatively limited knowledge on the topic (I am not at all a scholar), to shed some light on this neglected part of Chinese culture and Philsophy. Feel free to replicate the content in this text (and the site as whole) in whatever way you wish.    
 
-.people descend from heaven and hence they are naturally endowed with the virtues of ren, li, justice and wisdom however their chi is not necessarily the same, everyone doesn't posses the knowledge of fulfill their chi but with knowledge and wisdom they can actualisé it.
+
+
+Introduction
+-------------
+A short saying of Confucius -  
+"學而時習之，不亦說乎？" [1] "to learn and in Time, apply it. Is that not a great pleasure ?"  
+
+We don't have to go far, not far at all in fact, (the first line of the analects to be precise) to witness the significance Confucius places on learning  in the process of self cultivation and although this quote isn't from 大學 (the great learning, the focus of this part of Zhu Xi's collected commentaries on the four books - 四書章句集注) I felt it is very much necessary. For Confucius, learning is the start of becoming a 
+君子 (Py. Junzi - meaning sage) and is what forms the basis for the rest of one's development; as we shall see next, Master Zhu explains the effect of learning from a metaphysical angle ( a key characteristic of Neo confucian thought) with concepts familiar in the philosophical/religious climate he was present in such as qi and Tian which helped to reinvigorate this learning  of Ru thought in China, and more widely east Asia.
+
+
+Paragraph 1
+---------------------
+"古之大學所以教人之法也" - of old, the great learning of books has been the way of teaching people. 
+
+The method of great learning has been employed in China since early times as a way of cultivation 
+
+"蓋自天降生民 ，則既莫不與之以仁義禮智之性矣"
+
+people descend from heaven and hence they are naturally endowed with the virtues of ren, li, justice and wisdom. These 4 virtues, known as 四端 also translated as four begginings or four seeds to reflect the proposed nature of them, that is that they are inherently inside every human is a premise emphasised particularly by Mengzi/mencius. As we can see, Zhu Xi takes this idea and expresses it in a metaphysical light - stating it was endowed by heaven.   
+
+.however their chi is not necessarily the same, everyone doesn't posses the knowledge to fulfill their chi but with knowledge and wisdom they can actualisé it.
 
 . heaven appoints such people with fulfilled qi and virtue to instruct / rule the masses, and will continue to choose the virtuous for this task 
 
-. it is matter of recovering and restoring Qi 
+. it is a matter of recovering and restoring qi 
 
-.the three dynasties of florishing  (Xia, Yin, Zhou) gradually perfected their ways in the districts they reigned over, no where was there not learning. hence the people make themselves kings of virtue (ie. not of nobility)
+Paragraph 2
+---------------------
+
+.the three dynasties of flourishing  (Xia, Yin, Zhou) gradually perfected their ways in the districts they reigned over, no where was there not learning. hence the people make themselves kings of virtue (ie. not of nobility)
+
+. Concerning the young generation of the common people they begin [the great learning] with learning how to mop/ clean. 
+
+References
+-------------------
+
+[1] https://ctext.org/analects/xue-er/zh - 論語, 學而 - first section of The analects, Chinese text project 
+
+[2]https://ctext.org/si-shu-zhang-ju-ji-zhu/da-xue-zhang-ju/zh - 四書章句集注, 
+ 大學章句  - Great learning section of Xu Zhi's collected commentaries on the four books, Chinese text project ; note. any chinese quotations unless otherwise stated, will be took from 四書章句集注 
