@@ -32,13 +32,37 @@ These 4 virtues, known as 四端 also translated as four begginings or four seed
 Paragraph 2
 ---------------------
 
-.the three dynasties of flourishing  (Xia, Yin, Zhou) gradually perfected their ways in the districts they reigned over, no where was there not learning. hence the people make themselves kings of virtue (ie. not of nobility)
+"三代之隆，其法寖備，然後王宮、國都以及閭巷，莫不有學" - "The three dynasties of flourishing  (Xia, Yin, Zhou) gradually perfected their ways in the districts they reigned over, no where was there not learning"
 
-. Concerning the young generation of the common people they begin [the great learning] with learning how to mop/ clean. 
+. I will certainly expand on this point when I write a commentary on the five classics but essentially, Confucius beleived that the study of historic dynasties (particularly the Zhou) and implementing their ways was essential to bringing the same prosperity of their times to his.  
+
+"人生八歲，則自王公以下，至於庶人之子弟，皆入小學，而教之以灑掃、應對、進退之節，禮樂、射御、書數之文 ;" - When they turned eight years old, all the sons of the kings and dukes down to the common people, all entered elementary schools. They were taught the principles of mopping/cleaning, manners in conversation, and behaivour as well as the cultural arts of ritual, music, archery, charioteering, writing, and numeracy."
+
+. In these above mentioned dynasties, everybody was well educated from a young age in a variety of subjects, starting with basic practical skills such as cleaning and manners, leading to matters of ritual (禮  py. lǐ - a very important concept in confucianism that was unserstood as actions that could acutalise one's virtue (仁 - rén))   
+
+"及其十有五年，則自天子之元子、眾子，以至公、卿、大夫、元士之適子，與凡民之俊秀，皆入大學，而教之以窮理、正心、修己、治人之道" - "When they reach the age of fifteen, from the imperial sons and the sons of the nobility, extending to the common people with talent and intelligence, all enter the Great Learning. They are then taught how to study exhaustively, correct their thoughts, cultivate themselves and govern others"
+
+. This is the next stage of learning that men enter at the age of 15 where they further pursue their studies with greater intensity and depth, this time learning the end goals for the way, that is, self cultivation and the way to govern others based upon the confucian philosophy. It seems to be that this stage was available to less people than the first one seen as it is only for the talented. 
+
+"此又學校之教、大小之節所以分也" - "this was the education divided into sections (based on ages as we've seen"
+
+paragraph 3 
+------------
+
+"夫以學校之設，其廣如此，教之之術，其次第節目之詳又如此，而其所以為教，則又皆本之人君躬行心得之餘，不待求之民生日用彝倫之外，是以當世之人無不學" - "by means of the broad educational system, the art of teaching, its order and detailed arrangement - which is rooted in the ruler's personal practice and thorough understanding which exceeds that of the masses - ; not being beyond the lives and daily neccesities of people meaning there is no one who dosen't learn"
+
+. In virtue of the education system and the rulers own practice, the way is not beyond the people and therefore everyone is able to learn of it.  
+
+"其學焉者，無不有以知其性分之所固有，職分之所當為，而各俛焉以盡其力" - "of those who study, there is none who don't understand the distincitve characteristics of nature and The responsibilities they ought to fulfill ; Each bows down with diligence to exert their utmost effort"
+
+
+
+
+"此古昔盛時所以治隆於上，俗美於下，而非後世之所能及也！" - "In ancient times during prosperous eras, the governance flourished above, and the conditions of the common people were beautiful below"
+
 
 References
--------------------
-
+----------
 [1] https://ctext.org/analects/xue-er/zh - 論語, 學而 - first section of The analects, Chinese text project 
 
 [2]https://ctext.org/si-shu-zhang-ju-ji-zhu/da-xue-zhang-ju/zh - 四書章句集注, 
