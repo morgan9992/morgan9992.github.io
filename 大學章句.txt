@@ -60,6 +60,8 @@ nurturing one’s feeling of reverence in order to purify the mind and allign on
 
 "此古昔盛時所以治隆於上，俗美於下，而非後世之所能及也！" - "In ancient times during prosperous eras, the governance flourished above, and the conditions of the common people were beautiful below"
 
+. I think it is necessary here to note the view that Confucius held on the ruler's influence on people ; for Confucius, the ruler had to simply display his own virtue outwardly and this in itslef would bring virtue and hence prosperity to his people below him ; Confucius gives an analogy of wind passing over grass, stating that just as the wind naturally bends the grass as it passes over it so does the virtue of the ruler naturally bend his people towards it [4]
+
 paragraph 4
 -----------
 "及周之衰，賢聖之君不作，學校之政不修，教化陵夷，風俗頹敗，時則有若孔子之聖，而不得君師之位以行其政教，於是獨取先王之法，誦而傳之以詔後世" - "During the decline of the Zhou dynasty, virtuous and sage rulers did not emerge. The governance of education and schools was neglected, and the teachings and culture were in decline. At such times, there were individuals resembling the wisdom of Confucius, yet they could not attain the position of rulers to implement their political and educational ideals At that time, they independently adopted the laws of the ancient kings, reciting and transmitting them as instructions for future generations."
@@ -74,4 +76,6 @@ References
 [2]https://ctext.org/si-shu-zhang-ju-ji-zhu/da-xue-zhang-ju/zh - 四書章句集注, 
  大學章句  - Great learning section of Xu Zhi's collected commentaries on the four books, Chinese text project ; note. any chinese quotations unless otherwise stated, will be took from 四書章句集注
 
-[3] - https://iep.utm.edu/zhu-xi-chu-hsi-chinese-philosopher/#H2
+[3] - https://iep.utm.edu/zhu-xi-chu-hsi-chinese-philosopher/#H2 - internet encyclopedia of philosophy
+
+[4] - Confucianism: A Very Short Introduction by Daniel K. Gardner (isbn: 978-0195398915), pp. 34-35
