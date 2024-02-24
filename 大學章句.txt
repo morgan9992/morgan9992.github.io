@@ -72,6 +72,14 @@ paragraph 4
 
 . since this is all part of Zhu Xi's introduction to the great learning, he begins to explain what the text conatins, namely how it expands on the level learning that follows the first level of education taught to children.
 
+"三千之徒，蓋莫不聞其說，而曾氏之傳獨得其宗，於是作為傳義，以發其意" - "The disciples numbering three thousand, indeed all have heard his teachings. However, it is only the transmission of the Zengzi that truly captures its essence. Therefore, a commentary is written to explain and elucidate its meaning"
+
+. The great learning is attributed to confucius' immediate disciple Zengzi  
+
+"及孟子沒而其傳泯焉，則其書雖存，而知者鮮矣！" - "When Mencius passed away and his teachings were lost, even though his writings exist, there are few who understand"
+
+. Mencius was another early confucian writer who also wrote one of the four books, known simply as the Mencius (孟子 py. Mengzi). this sentence paired with the previous, stating 'there are few who understand' , and 'a commentary is written to explain and elucidate its meaning' display the profoundess of the way and how difficult it is to comprehend.    
+
 
 References
 ----------
