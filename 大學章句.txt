@@ -12,7 +12,7 @@ A short saying of Confucius -
 We don't have to go far, not far at all in fact, (the first line of the analects to be precise) to witness the significance Confucius places on learning  in the process of self cultivation and although this quote isn't from 大學 (the great learning, the focus of this part of Zhu Xi's collected commentaries on the four books - 四書章句集注) I felt it is very much necessary. For Confucius, learning is the start of becoming a 
 君子 (Py. Junzi - meaning sage) and is what forms the basis for the rest of one's development; as we shall see next, Master Zhu explains the effect of learning from a metaphysical angle ( a key characteristic of Neo confucian thought) with concepts familiar in the philosophical/religious climate he was present in such as qi and Tian which helped to reinvigorate this learning  of Ru thought in China, and more widely east Asia.
 
-Zhu Xi's Introduction to the 大學
+Zhu Xi's Preface to the 大學
 ---------------------------------
 
 Paragraph 1
@@ -117,6 +117,10 @@ The will of heaven / mandate of heaven (天命) was a reiligious and political i
 "極知僭踰，無所逃罪，然於國家化民成俗之意、學者修己治人之方，則未必無小補云" - "I am Extremely aware of overstepping boundaries, at which poimt there is no way to escape guilt. However, in the intention of transforming the nation and forming customs among the people, the method by which scholars cultivate themselves and govern others, the writing won't be without small supplements"
 
 .Zhu Xi knows that there is a point at which interpretation has gone too far beyond the original meaning of the text but at the same time, he wishes for his thoughts to influence and transfom the customs of the people, the way scholars cultivate themselves and the state as a whole so his commentary won't be without at least some complements to the original text.
+
+"淳熙己酉春二月申子，新安朱熹序" - "In the spring of the second month of the year Jiyou in the Shenzi reign, Zhu Xi's preface from Xinan" 
+
+Jiyou was the 46th year of the sexegenary cycle used to record time in China. Shenzi refers to the chinese astrological sign of the monkey and Xinan was the name of a Place west of present day Luoyang city, Henan province. 
 
 References
 ----------
