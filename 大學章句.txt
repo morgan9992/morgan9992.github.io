@@ -66,9 +66,11 @@ paragraph 4
 -----------
 "及周之衰，賢聖之君不作，學校之政不修，教化陵夷，風俗頹敗，時則有若孔子之聖，而不得君師之位以行其政教，於是獨取先王之法，誦而傳之以詔後世" - "During the decline of the Zhou dynasty, virtuous and sage rulers did not emerge. The governance of education and schools was neglected, and the teachings and culture were in decline. At such times, there were individuals resembling the wisdom of Confucius, yet they could not attain the position of rulers to implement their political and educational ideals At that time, they independently adopted the laws of the ancient kings, reciting and transmitting them as instructions for future generations."
 
-. Having seen the great effect that confucianism has on the kingdom, in the abscence of virtuous rulers following the way and the general populace learning the way, the kingdom is sure to decline 
+. Having seen the great effect that confucianism has on the kingdom, we now see the inverse: in the abscence of virtuous rulers following the way and the general populace learning the way, the kingdom is sure to decline 
 
+"若曲禮、少儀、內則、弟子職諸篇，固小學之支流餘裔，而此篇者，則因小學之成功，以著大學之明法，外有以極其規模之大，而內有以盡其節目之詳者也" - "If one examines the various writings on music, ritual, minor ceremonies, and the duties of students, these indeed represent the peripheral branches and descendants of the study of minor learning [taught to children of nobles]. However, this particular text, owing to the achievements of minor learning, serves to establish the clear principles of the great learning. Externally, it seeks to explore the grand scale of it, while internally, it aims to exhaustively elaborate on its detailed aspects."
 
+. since this is all part of Zhu Xi's introduction to the great learning, he begins to explain what the text conatins, namely how it expands on the level learning that follows the first level of education taught to children.
 
 
 References
