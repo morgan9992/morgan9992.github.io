@@ -12,6 +12,8 @@ A short saying of Confucius -
 We don't have to go far, not far at all in fact, (the first line of the analects to be precise) to witness the significance Confucius places on learning  in the process of self cultivation and although this quote isn't from 大學 (the great learning, the focus of this part of Zhu Xi's collected commentaries on the four books - 四書章句集注) I felt it is very much necessary. For Confucius, learning is the start of becoming a 
 君子 (Py. Junzi - meaning sage) and is what forms the basis for the rest of one's development; as we shall see next, Master Zhu explains the effect of learning from a metaphysical angle ( a key characteristic of Neo confucian thought) with concepts familiar in the philosophical/religious climate he was present in such as qi and Tian which helped to reinvigorate this learning  of Ru thought in China, and more widely east Asia.
 
+Zhu Xi's Introduction to the 大學
+---------------------------------
 
 Paragraph 1
 ---------------------
@@ -79,6 +81,17 @@ paragraph 4
 "及孟子沒而其傳泯焉，則其書雖存，而知者鮮矣！" - "When Mencius passed away and his teachings were lost, even though his writings exist, there are few who understand"
 
 . Mencius was another early confucian writer who also wrote one of the four books, known simply as the Mencius (孟子 py. Mengzi). this sentence paired with the previous, stating 'there are few who understand' , and 'a commentary is written to explain and elucidate its meaning' display the profoundess of the way and how difficult it is to comprehend.    
+
+paragraph 5
+------------
+"自是以來，俗儒記誦詞章之習，其功倍於小學而無用；異端虛無寂滅之教，其高過於大學而無實" - "Since then, people have doubled their efforts in the common Confucian practice of memorizing phrases and sentences compared to elementary learning, yet it is useless; the heterodox teachings of emptiness and extinction surpass the heights of the Great Learning, yet lack substance"
+
+. here Zhu Xi is explaining how people have gone beyond the method of great learning yet these methods are really quite useless.
+
+"其他權謀術數，一切以就功名之說，與夫百家眾技之流，所以惑世誣民、充塞仁義者，又紛然雜出乎其閒" - "Other political stratergies and schemes all for the sake of achieving merit and fame, and the myriad skills of the hundred schools, therefore confusing the world, deceiving the people, and blocking up ren. Moreover, arising chaotically in their free time."
+
+. building on the last point, Zhu Xi explains how these different pratices that differ from the original confucian teachings have lead to the confusing of the people and ultimately a loss of ren overall 
+
 
 
 References
