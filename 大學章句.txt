@@ -48,7 +48,7 @@ Paragraph 2
 
 "此又學校之教、大小之節所以分也" - "this was the education divided into sections (based on ages as we've seen"
 
-paragraph 3 
+Paragraph 3 
 ------------
 
 "夫以學校之設，其廣如此，教之之術，其次第節目之詳又如此，而其所以為教，則又皆本之人君躬行心得之餘，不待求之民生日用彝倫之外，是以當世之人無不學" - "by means of the broad educational system, the art of teaching, its order and detailed arrangement - which is rooted in the ruler's personal practice and thorough understanding which exceeds that of the masses - ; not being beyond the lives and daily neccesities of people meaning there is no one who dosen't learn"
@@ -64,7 +64,7 @@ nurturing one’s feeling of reverence in order to purify the mind and allign on
 
 . I think it is necessary here to note the view that Confucius held on the ruler's influence on people ; for Confucius, the ruler had to simply display his own virtue outwardly and this in itslef would bring virtue and hence prosperity to his people below him ; Confucius gives an analogy of wind passing over grass, stating that just as the wind naturally bends the grass as it passes over it so does the virtue of the ruler naturally bend his people towards it [4]
 
-paragraph 4
+Paragraph 4
 -----------
 "及周之衰，賢聖之君不作，學校之政不修，教化陵夷，風俗頹敗，時則有若孔子之聖，而不得君師之位以行其政教，於是獨取先王之法，誦而傳之以詔後世" - "During the decline of the Zhou dynasty, virtuous and sage rulers did not emerge. The governance of education and schools was neglected, and the teachings and culture were in decline. At such times, there were individuals resembling the wisdom of Confucius, yet they could not attain the position of rulers to implement their political and educational ideals At that time, they independently adopted the laws of the ancient kings, reciting and transmitting them as instructions for future generations."
 
@@ -82,7 +82,7 @@ paragraph 4
 
 . Mencius was another early confucian writer who also wrote one of the four books, known simply as the Mencius (孟子 py. Mengzi). this sentence paired with the previous, stating 'there are few who understand' , and 'a commentary is written to explain and elucidate its meaning' display the profoundess of the way and how difficult it is to comprehend.    
 
-paragraph 5
+Paragraph 5
 ------------
 "自是以來，俗儒記誦詞章之習，其功倍於小學而無用；異端虛無寂滅之教，其高過於大學而無實" - "Since then, people have doubled their efforts in the common Confucian practice of memorizing phrases and sentences compared to elementary learning, yet it is useless; the heterodox teachings of emptiness and extinction surpass the heights of the Great Learning, yet lack substance"
 
@@ -91,6 +91,18 @@ paragraph 5
 "其他權謀術數，一切以就功名之說，與夫百家眾技之流，所以惑世誣民、充塞仁義者，又紛然雜出乎其閒" - "Other political stratergies and schemes all for the sake of achieving merit and fame, and the myriad skills of the hundred schools, therefore confusing the world, deceiving the people, and blocking up ren. Moreover, arising chaotically in their free time."
 
 . building on the last point, Zhu Xi explains how these different pratices that differ from the original confucian teachings have lead to the confusing of the people and ultimately a loss of ren overall 
+
+"使其君子不幸而不得聞大道之要，其小人不幸而不得蒙至治之澤，晦盲否塞，反覆沈痼，以及五季之衰，而壞亂極矣！" - "Causing sages to be unfortunate and unable to hear the essentials of the Great way, those of little capacities to be unfortunate and unable to receive the blessings of perfect rule, obscure and ignorant, obstructed and blocked, repeatedly sinking into affliction and illness, as well as the decline of the five seasons, resulting in extreme ruin and chaos"
+
+- once again, emphasising previous points on the issue of trying other methods rather then than the orthodox one of great learning
+
+Paragraph 6
+-----------
+"天運循環，無往不復。宋德隆盛，治教休明。於是河南程氏兩夫子出，而有以接乎孟氏之傳" - "The will of heaven goes and comes back around; there is nowhere it does not regain possession. During the flourishing era of the Song Dynasty, governance and education were splendid and clear. Then, the two masters of the Cheng family (known as the Cheng brothers) in Henan emerged, and there was a way to receive the transmission from mengzi"
+
+The will of heaven / mandate of heaven (天命) was a reiligious and political idea that existed in China since ancient times, it was the theory that the soveriegn was appointed by heaven according to his conduct and the experience of the people under his rule ; if the ruler was virtuous, the opinion of heaven would be manifested in desirable natural circumstances such as good weather for good harvest ; if the ruler was unvirtuous however, undesirable phenomena would occur such as natural disatsers. This links in with Zhu Xi's statement here because he is saying that heaven has in the end restored righteous circumstances and rule to the song dynasty after the afore mentioned periods of catastrophe The cheng brothers were two philosopers that helped to pioneer what we know today as neo confucinism, their thought heavily influenced Zhu Xi. With the flourishing of the song dynasty and the presence of these new thinkers, the teachings from mengzi's writings could now be correctly understood (note earlier statement in the text when Zhu xi said that few undertsood what Zhu xi meant.
+
+
 
 
 
