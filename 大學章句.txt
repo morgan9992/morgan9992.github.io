@@ -212,6 +212,15 @@ Paragraph 1
 
 "右經一章，蓋孔子之言，而曾子述之" - "In the Classics, there is one section. Indeed, these are the words of Confucius, and Zengzi has explained them"
 
+"凡二百五字"* - "Every fool's words."
+
+"其傳十章，則曾子之意而門人記之也。舊本頗有錯簡，今因程子所定，而更考經文，別為序次如左" - "Its transmission consists of ten chapters. Then, it is Zengzi's intention, and his disciples have recorded it. Old versions have quite a few errors and omissions. Now, based on what Master Cheng has determined, and further examining the classical texts, a different order is established as follows." 
+
+"凡千五百四十六字。凡傳文，雜引經傳，若無統紀，然文理接續，血脈貫通，深淺始終，至為精密。熟讀詳味，久當見之，今不盡釋也。"* - "In total, there are 1546 characters. In transmitted texts, with various references to classics and commentaries, if there is no systematic organization, but the textual logic is coherent, the main thread permeates through, and the depth and shallowness are consistent from start to finish, it becomes exceedingly meticulous. With familiar reading and detailed understanding, one will eventually see it after a long time. As of now, it is not entirely explained."
+
+Paragraph 2 
+-----------
+
 
 References
 ----------
