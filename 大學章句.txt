@@ -122,6 +122,24 @@ The will of heaven / mandate of heaven (天命) was a reiligious and political i
 
 Jiyou was the 46th year of the sexegenary cycle used to record time in China. Shenzi refers to the chinese astrological sign of the monkey (9th sign of the 12 year system) and Xinan was the name of a Place west of present day Luoyang city, Henan province. 
 
+Zhu Xi's Commentary on the 大學
+-------------------------------
+note. Zhu Xi's aditions will be put with a * by the text 
+
+"大，舊音泰，今讀如字"* - "The character '大' originally had an old pronunciation of 泰 (tài), but nowadays it is pronounced as it is written" 
+
+"子程子曰：「大學，孔氏之遺書，而初學入德之門也"* - "Master Cheng said, 'The Great Learning is the legacy writings of Confucius, and it is the gateway for entering the way of virtue at the beginning of learning.'"
+
+"」於今可見古人為學次第者，獨賴此篇之存，而論、孟次之"* - "In the present, it can be seen that the ancients, in their pursuit of learning, relied solely on the existence of this text, and they ranked it higher than the analects and the Mengzi."
+
+"學者必由是而學焉，則庶乎其不差矣"* - "Scholars must necessarily learn through this way in order to avoid errors."
+
+Zhu Xi is clealy emphasising here how important the great learning is, stating that it was held higher than other works of the 4 books such as the analects and mengzi ; it is the gateway to 德 (dé - virtue) in the pursuit of learning
+
+Paragraph 1 
+-----------
+
+
 References
 ----------
 [1] https://ctext.org/analects/xue-er/zh - 論語, 學而 - first section of The analects, Chinese text project 
