@@ -144,7 +144,9 @@ Paragraph 1
 
 "大學者，大人之學也"* - "The Great Learning is the learning of the one of high virtue".
 
+"明，明之也"* - "clear, indeed it is clear" 
 
+"明德者，人之所得乎天，而虛靈不昧，以具眾理而應萬事者也" - "As for one with clear virtue, it is what they obtain from heaven, and the luminous spirit is not obscured; it is because one possesses The principle of the myriad phenomena which is non different to all things."
 
 References
 ----------
