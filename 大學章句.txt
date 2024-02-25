@@ -176,6 +176,27 @@ Paragraph 1
 
 "物有本末，事有終始，知所先後，則近道矣" - "Things have their roots and branches, affairs have their end and beginning. Know the order of priorities, and then one is close to the Dao (the Way)."
 
+"明德為本，新民為末"* - "Clear virtue serves as the foundation, while new people serve as the end"
+
+"知止為始，能得為終"* - "To know when to stop is the beginning; to be able to obtain is the end"
+
+"本始所先，末終所後"* - "The fundamental origin is what precedes, and the final outcome is what follows." 
+
+"此結上文兩節之意"* - "This concludes the meaning of the two sections in the preceding text"
+
+"古之欲明明德於天下者，先治其國；欲治其國者，先齊其家；欲齊其家者，先脩其身；欲脩其身者，先正其心；欲正其心者，先誠其意；欲誠其意者，先致其知；致知在格物" - "In ancient times, those desiring to manifest their virtue in the world first governed their own countries; those desiring to govern their countries first put their own families in order; those desiring to regulate their families first cultivated themselves; those desiring to cultivate themselves first corrected their minds; those desiring to correct their minds first embraced sincerity in their intentions; those desiring sincerity in their intentions first attained knowledge; attaining knowledge is in investigating things"
+
+"治，平聲，後放此"* - "afterwards, let this go"
+
+"明明德於天下者，使天下之人皆有以明其明德也"* - "Clearly manifesting virtue in the world, causing the people of the world to each have a way to manifest their clear virtue."
+
+"心者，身之所主也"* - "The mind is the master of the body"
+
+"誠，實也。意者，心之所發也"* - "Sincerity is synonymous with truthfulness. It refers to the thoughts and intentions that emanate from the heart" 
+
+"實其心之所發，欲其一於善而無自欺也"* - "Actualize that which is emitted by the heart, desiring to be united with goodness and without self-deception."
+
+
 References
 ----------
 [1] - https://ctext.org/analects/xue-er/zh - 論語, 學而 - first section of The analects, Chinese text project 
