@@ -313,6 +313,15 @@ Paragraph 6
 
 "此句之上別有闕文，此特其結語耳"* - "Above this sentence, there is missing text that is different; especially pay attention to its concluding words."
 
+"右傳之五章，蓋釋格物、致知之義，而今亡矣" - "The fifth chapter of the Righteousness Annals indeed explained the principles of understanding things and the significance of attaining knowledge, but now it has been lost or is no longer available."
+
+"此章舊本通下章，誤在經文之下"* - "This chapter connects to the next chapter in the old editions, with an error found below the classic text"
+
+"閒嘗竊取程子之意以補之曰：「所謂致知在格物者，言欲致吾之知，在即物而窮其理也。蓋人心之靈莫不有知，而天下之物莫不有理，惟於理有未窮，故其知有不盡也。是以大學始教，必使學者即凡天下之物，莫不因其已知之理而益窮之，以求至乎其極。至於用力之久，而一旦豁然貫通焉，則眾物之表裏精粗無不到，而吾心之全體大用無不明矣。此謂物格，此謂知之至也。」" - " In my idle moments, I have secretly borrowed the thoughts of Cheng Yi to supplement them, saying: What is called the attainment of knowledge lies in examining things, desiring the attainment of my knowledge, is in the very things and exhausting their principles. For there is no exception that the spiritual aspect of the human mind has knowledge, and without exception, all things under heaven have principles, except that in principles, there are some not yet exhausted, therefore, its knowledge is not exhaustive. Therefore, the Great Learning begins to teach, must make learners immediately encompass all things under heaven, without exception, relying on the principles already known and further exhausting them, in order to seek to the utmost limit. Until applying effort for a long time, and suddenly, it becomes clear and open, penetrated, then every aspect of all things, their fineness and coarseness, nothing is not reached, and the entirety of my heart's great utility, nothing is not clear."
+
+Paragraph 7
+-----------
+
 
 
 References
