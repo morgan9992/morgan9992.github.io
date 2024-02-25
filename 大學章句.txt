@@ -196,6 +196,11 @@ Paragraph 1
 
 "實其心之所發，欲其一於善而無自欺也"* - "Actualize that which is emitted by the heart, desiring to be united with goodness and without self-deception."
 
+"致，推極也。知，猶識也。推極吾之知識，欲其所知無不盡也。格，至也。物，猶事也。窮至事物之理，欲其極處無不到也。此八者，大學之條目也。"* - "Achieve, pushing to the extreme. Knowledge, similar to recognition. Pushing my knowledge to the extreme, desiring that there be nothing not thoroughly known. Arrive, to. Things, similar to affairs. Exhausting the principles of things, desiring to reach every extreme. These eight are the items of the Great Learning."
+
+"物格而后知至，知至而后意誠，意誠而后心正，心正而后身脩，身脩而后家齊，家齊而后國治，國治而后天下平" - "After distinguishing things, knowledge is achieved. After knowledge reaches, intentions become sincere. With sincere intentions, the mind becomes upright. With an upright mind, the body is cultivated. With a cultivated body, the family becomes orderly. With an orderly family, the nation is governed. With a governed nation, the world becomes peaceful."
+
+
 
 References
 ----------
