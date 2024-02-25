@@ -406,6 +406,18 @@ Paragraph 10
 
 "詩小雅蓼蕭篇"* - "The Poem of Small Elegance: Reed and Willow Pieces"
 
+"詩云：「其儀不忒，正是四國。」其為父子兄弟足法，而后民法之也" - "The Book of Songs says: 'Its ceremonies are without deviation; it is indeed the correct way for the four states.' Its role as a guide for the conduct of fathers, sons, and brothers is sufficient; and thereafter, it becomes the model for the conduct of the people"
+
+"詩曹風鳴鳩篇。忒，差也"* - "The poetry of Cao in the 'Wind Singing Dove' chapter. '忒,' indicating deviation."
+
+"此謂治國在齊其家" - "This is called governing a country, where putting things in order starts with balancing one's own household."
+
+"此三引詩，皆以詠歎上文之事，而又結之如此。其味深長，最宜潛玩。"* - "These three quoted poems all praise and lament the matters of the preceding text, and conclude it in this way. Their taste is deep and profound, most suitable for quiet contemplation."
+
+"右傳之九章。釋齊家治國" - "The Nine Chapters of the Records of the Right with Explanations on Governing the State of the Qi Family"
+
+Paragraph 11
+------------
 
 
 
