@@ -265,7 +265,34 @@ Paragraph 3
 
 Paragraph 4 
 -----------
+"詩云：「邦畿千里，惟民所止。」" - "The poem states: 'The capital region extends for a thousand miles, only where the people reside.'"
 
+"詩商頌玄鳥之篇。邦畿，王者之都也。止，居也，言物各有所當止之處也"* - "In the poetry, there is a section that praises the mysterious bird. The borders of the state are the capital of the ruler. Stopping and residing, it speaks of each thing having its appropriate place to stop"
+
+"詩云：「緡蠻黃鳥，止于丘隅。」子曰：「於止，知其所止，可以人而不如鳥乎！」" - "The poem describes a colorful bird perched on the corner of a hill. Confucius remarked that in the act of stopping and understanding where to draw limits, can humans match the instinctual wisdom exhibited by birds?"
+
+"緡，詩作綿。詩小雅綿蠻之篇。緡蠻，鳥聲。丘隅，岑蔚之處。子曰以下，孔子說詩之辭。言人當知所當止之處也"* - "Mǐn, in poetry, is used to make it delicate. In poetry, there are delicate and wild pieces in the Small Elegance category. Delicate and wild, like the sound of birds, in the corners of hills, in places with dense vegetation. Confucius said the following, explaining the words of poetry. He said that people should know where they should stop speaking."
+
+"詩云：「穆穆文王，於緝熙敬止！」為人君，止於仁；為人臣，止於敬；為人子，止於孝；為人父，止於慈；與國人交，止於信" - "The poem says: 'Respectful and awe-inspiring King Wen, in meticulous splendor, with reverence and restraint!' When serving as a ruler, one should confine oneself to benevolence; as a minister or subject, to respect; as a son, to filial piety; as a father, to kindness; and in dealings with fellow citizens, to trustworthiness."
+
+"於緝之於，音烏。詩文王之篇。穆穆，深遠之意。於，歎美辭。緝，繼續也。熙，光明也。敬止，言其無不敬而安所止也。引此而言聖人之止，無非至善。五者乃其目之大者也。學者於此，究其精微之蘊，而又推類以盡其餘，則於天下之事，皆有以知其所止而無疑矣"* - "In the pronunciation of '於', it resembles the sound of a crow. The chapters of King Wen's poetry and literature are solemn, expressing profound meanings. '於' denotes admiration for beautiful language, while '緝' signifies continuation. '熙' and '光明' represent brightness and radiance, while '敬止' refers to a respectful stop, where there is no disrespect and a sense of peace. Speaking of this, the sage's stop embodies nothing but the utmost goodness. These five aspects are the greatest focus. Scholars, by thoroughly studying their subtle essence and extending their understanding, can comprehend all affairs under heaven without doubt."
+
+"詩云：「瞻彼淇澳，菉竹猗猗。有斐君子，如切如磋，如琢如磨。瑟兮僩兮，赫兮喧兮。有斐君子，終不可諠兮！」如切如磋者，道學也；如琢如磨者，自脩也；瑟兮僩兮者，恂慄也；赫兮喧兮者，威儀也；有斐君子，終不可諠兮者，道盛德至善，民之不能忘也" - "The poem speaks of the picturesque Qi Bay with lush reeds. An outstanding noble person is likened to continuous refinement, self-cultivation, caution, and dignified bearing. Despite these virtues, true nobility does not boast excessively. This is because the Dao is flourishing, virtue is complete, and the impact on the people is unforgettable"
+
+"澳，於六反。菉，詩作綠。猗，協韻音阿。僩，下版反。喧，詩作咺，諠，詩作諼；並況晚反。恂，鄭氏讀作峻。詩衛風淇澳之篇。淇，水名。澳，隈也。猗猗，美盛貌。興也。斐，文貌。切以刀鋸，琢以椎鑿，皆裁物使成形質也。磋以鑢鐋1，磨以沙石，皆治物使其滑澤也。治骨角者，既切而復磋之。治玉石者，既琢而復磨之。皆言其治之有緒，而益致其精也。瑟，嚴密之貌。僩，武毅之貌。赫喧，宣著盛大之貌。諠，忘也。道，言也。學，謂講習討論之事，自脩者，省察克治之功。恂慄，戰懼也。威，可畏也。儀，可象也。引詩而釋之，以明明明德者之止於至善。道學自脩，言其所以得之之由。恂慄、威儀，言其德容表裏之盛。卒乃指其實而歎美之也"* - "At the sixth turn, 'Lù' in poetry is written as 'green,' and 'Yī' coordinates with the rhyme sound 'ā.' 'Xiàn' is a variant form indicating obstruction downward. 'Xuān' in poetry can be written as 'xuān' or 'xuān,' and consider the reverse for 'wǎn.' 'Xún,' when read by the Zheng family, is pronounced as 'jùn.' The poem 'Qí Ào' in the Wèifēng category of the Book of Songs describes the river 'Qí' and a secluded corner 'ào,' both symbolizing a gracefully flourishing and beautiful appearance, signifying flourishing and elegance in literary appearance. It also describes the meticulous processes of cutting, carving, polishing with files and tools, and grinding with sand and stones, all aimed at shaping and treating things to achieve smoothness and gloss. Similarly, in treating bones and horns, after cutting, they are polished again. One who works on jade and stones, after carving, polishes them again. All acknowledge that this work has a method, leading to an enhancement of its essence. The appearances of dignified meticulousness, martial vigor, grandeur, and forgetfulness are described. 'Dao' is equated with speech, and 'learning' refers to the activities of discussion and learning. For those who cultivate themselves, it means examining and mastering the practice of virtue. 'Trembling in fear,' 'awe-inspiring,' and 'worthy of emulation' describe the demeanor. Quoting poetry to clarify that those with clear virtues adhere to the highest goodness. Cultivating oneself in the Dao and learning, speaking of the ways through which one attains it. 'Trembling and awe-inspiring demeanor' speaks of the abundance of virtue both internally and externally. Finally, pointing to its reality and praising its beauty" 
+
+"詩云：「於戲前王不忘！」君子賢其賢而親其親，小人樂其樂而利其利，此以沒世不忘也" - "The poetry emphasizes that even before engaging in recreational activities, a wise ruler does not forget his responsibilities. A noble person values the virtuous and is close to family, while a petty person prioritizes personal pleasure and self-interest. These principles endure throughout generations and are not forgotten"
+
+"於戲，音嗚呼。樂，音洛。詩周頌烈文之篇。於戲，歎辭。前王，謂文、武也。君子，謂其後賢後王。小人，謂後民也。此言前王所以新民者止於至善，能使天下後世無一物不得其所，所以既沒世而人思慕之，愈久而不忘也。此兩節詠歎淫泆，其味深長，當熟玩之"* - "In the realm of entertainment, the sound is joyous. Music, with the sound of luò, is akin to the splendid literary pieces in the poetry of the Zhou Songs. In the context of play, there is an expression of deep emotions and lamentations. The term 'former kings' refers to those who embodied both civil and military virtues. 'Gentlemen' refers to virtuous individuals and future kings, while 'small people' denotes the commoners in later generations. This passage conveys that the former kings, through their pursuit of ultimate goodness, ensured that everything in the world of later generations found its proper place. As a result, even after their passing, people continue to think about and admire them, and this admiration deepens over time. These two lines express admiration and deep emotions about the profound and lasting impact of the former kings' virtuous influence, encouraging readers to carefully appreciate and savor the sentiments conveyed." 
+
+"右傳之三章。釋止於至善" - "The three chapters of the Zuo Zhuan. The explanation concludes at the ultimate goodness." 
+
+"此章內自引淇澳詩以下，舊本誤在誠意章下"* - "In this chapter, starting from the citation of the poem from Qimao onwards, there is a mistake in the old edition below the chapter on sincerity."
+
+"1. 鐋 : 原作「鍚」。《摛藻堂四庫全書薈要》本作「鐋」"* - "1. 鐋: Originally written as '鍚'. In the 'Essential Collection of the Siku Quanshu at the Chisao Hall,' it is written as '鐋'."
+
+Paragraph 5
+-----------
 
 References
 ----------
