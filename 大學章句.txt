@@ -367,6 +367,20 @@ Paragraph 9
 
 "所謂齊其家在脩其身者：人之其所親愛而辟焉，之其所賤惡而辟焉，之其所畏敬而辟焉，之其所哀矜而辟焉，之其所敖惰而辟焉。故好而知其惡，惡而知其美者，天下鮮矣！"  - "What is meant by harmonizing one's family is in cultivating oneself. People distance themselves from what they hold dear, despise, fear, respect, pity, and from arrogance and laziness. Therefore, those who love yet recognize faults, and dislike yet recognize beauty, are rare in the world!"
 
+"辟，讀為僻。惡而之惡、敖、好，並去聲。鮮，上聲。人，謂眾人。之，猶於也。辟，猶偏也。五者，在人本有當然之則；然常人之情惟其所向而不加審焉，則必陷於一偏而身不脩矣"* - "Estranged, read as secluded. Disliking and having aversions, both departing from extravagance and fondness. Xiǎn with a rising tone. 'People' refers to the multitude. '之' is akin to '於.' 'Estranged' here is like 'biased.' The five attitudes exist in human nature with a natural principle. Indeed, the emotional tendencies of ordinary people are solely directed towards what they desire without examining it. As a result, they will inevitably fall into one-sidedness, and the self will not be cultivated."
+
+"故諺有之曰：「人莫知其子之惡，莫知其苗之碩。」" - "Therefore, there is a saying, 'People, no one knows the wrongdoings of their own children; none knows the prosperity of their own seedlings.'"
+
+"諺，音彥。碩，協韻，時若反。諺，俗語也。溺愛者不明，貪得者無厭，是則偏之為害，而家之所以不齊也"* - "The term 'Yan' refers to refined pronunciation. 'Shuo' is a term with a harmonious rhyme, but at times, it appears reversed. 'Yan' also denotes common language or colloquial expressions. Excessive fondness and insatiable greed lead to ignorance, causing harm through bias and resulting in disharmony within the family."
+
+"此謂身不脩不可以齊其家。打開字典		右傳之八章。釋脩身齊家" - "This is called, if oneself is not cultivated, one cannot bring harmony to their family. Open the dictionary. In the eighth chapter of the Zuo Commentary, explain the cultivation of oneself and the harmonization of the family."
+
+Paragraph 10
+------------
+
+"所謂治國必先齊其家者，其家不可教而能教人者，無之。故君子不出家而成教於國：孝者，所以事君也；弟者，所以事長也；慈者，所以使眾也" - "What is meant by governing a country is that it must first put its own family in order. If one cannot manage and educate their own family but can instruct others, such a person is non-existent. Therefore, a gentleman achieves the instruction of the country without neglecting his own family. Filial piety is the means by which one serves the ruler, fraternal duty is the means by which one serves the elder, and compassion is the means by which one guides the multitude."
+
+
 
 
 References
