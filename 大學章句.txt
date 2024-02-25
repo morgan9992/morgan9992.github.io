@@ -468,9 +468,21 @@ Paragraph 11
 
 "舅犯，晉文公舅狐偃，字子犯。亡人，文公時為公子，出亡在外也。仁，愛也。事見檀弓。此兩節又明不外本而內末之意"* - "Uncle Fan refers to Hu Yan, the uncle of Duke Wen of Jin, with the style name Zi Fan. The term 'the person who is away' refers to Duke Wen's son, who was in exile abroad during Duke Wen's time. Benevolence is love. The matter is observed in the case of Tan Gong. These two sections also clearly illustrate that the meaning is not beyond the main point but within the subsidiary context."
 
-"秦誓曰：「若有一个臣，斷斷兮無他技，其心休休焉，其如有容焉。人之有技，若己有之，人之彥聖，其心好之，不啻若自其口出，寔能容之，以能保我子孫黎民，尚亦有利哉。人之有技，媢疾以惡之，人之彥聖，而違之俾不通，寔不能容，以不能保我子孫黎民，亦曰殆哉"
+"秦誓曰：「若有一个臣，斷斷兮無他技，其心休休焉，其如有容焉。人之有技，若己有之，人之彥聖，其心好之，不啻若自其口出，寔能容之，以能保我子孫黎民，尚亦有利哉。人之有技，媢疾以惡之，人之彥聖，而違之俾不通，寔不能容，以不能保我子孫黎民，亦曰殆哉。」" - "The sworn oath of Qin says: "If there is a minister, firm and without other skills, his mind is calm and composed; it's as if he has tolerance. If a person has skills as if they were his own, a person who is virtuous and sage-like, his heart loves it, no less than if it came out from his own mouth. Indeed, he can tolerate it, in order to protect our children, grandchildren, and the common people; it is indeed beneficial. However, a person with skills, envying and hating it with malice, a person who is virtuous and sage-like, going against it and causing it not to be accessible, indeed, he cannot tolerate it, and because he cannot protect our children, grandchildren, and the common people, it is almost perilous."
 
- 
+"个，古賀反，書作介。斷，丁亂反。媢，音冒。秦誓，周書。斷斷，誠一之貌。彥，美士也。聖，通明也。尚，庶幾也。媢，忌也。違，拂戾也。殆，危也"* - "Individually, in ancient times, praised and reversed, the writings are made as an introduction. Cut off, the disorder of the fourth earthly branch is reversed. Envy, the sound is concealed. The oath of Qin, the book of Zhou. Firm and decisive, the appearance of sincerity and unity. Virtuous and handsome, a beautiful scholar. The sage, bright and clear. Esteeming, nearly as. Envy, it is also jealousy. To violate, it goes against and deviates. Almost, it is dangerous."
+
+"唯仁人放流之，迸諸四夷，不與同中國。此謂唯仁人為能愛人，能惡人" - "Only the virtuous person releases [it], bursting forth towards the various four barbarian tribes, not the same with [those within] China. This is called, only the virtuous person can love people, can dislike people."
+
+"迸，讀為屏，古字通用。迸，猶逐也。言有此媢疾之人，妨賢而病國，則仁人必深惡而痛絕之。以其至公無私，故能得好惡之正如此也"* - "The character "迸" is interchangeable with "屏" in ancient times, and it has a similar meaning to "逐," which is to pursue or follow. Speaking of a person who harbors malicious jealousy, hinders virtuous individuals, and harms the country, a person of kindness will surely strongly dislike and abhor such an individual. This is because their fairness and lack of selfishness enable them to correctly understand likes and dislikes."
+
+"見賢而不能舉，舉而不能先，命也；見不善而不能退，退而不能遠，過也" - "Seeing the virtuous but unable to promote them, promoting them but unable to lead – it is fate. Seeing the unvirtuous but unable to withdraw, withdrawing but unable to go far – it is a fault."
+
+"命，鄭氏云「當作慢。」程子云：「當作怠。」未詳孰是。遠，去聲。若此者，知所愛惡矣，而未能盡愛惡之道，蓋君子而未仁者也"* - "The term '命' (fate or command), according to the Zheng school, should be understood as '慢' (slow or slack). Chengzi suggests interpreting it as '怠' (negligent or idle), and it is not yet clear which is correct. The pronunciation of '遠' is with the departing tone. If it is like this, one understands one's preferences and aversions but is unable to fully follow the path of preferences and aversions. This is indeed the case of a gentleman who has not yet attained benevolence."
+
+"好人之所惡，惡人之所好，是謂拂人之性，菑必逮夫身" - "What good people hate, and bad people like, this is called going against human nature. Calamity will surely reach one's body."
+
+
 
 
 References
