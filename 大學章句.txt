@@ -440,7 +440,37 @@ Paragraph 11
 
 "先慎乎德，承上文不可不慎而言。德，即所謂明德。有人，謂得眾。有土，謂得國。有國則不患無財用矣"* - "First, be cautious about virtue. Continuing from the previous passage, speaking without caution is not permissible. Virtue, that is what is called illustrious virtue. Having people refers to gaining the support of the multitude. Having land refers to gaining a country. Having a country, then there is no worry about lacking wealth and resources."
 
+"德者本也，財者末也" - "Virtue is the root, wealth is the branches."
 
+"本上文而言"* - "In terms of the original text." 
+
+"外本內末，爭民施奪" - "Externally principle, internally aim; contend for the people, implement (policies of) deprivation." 
+
+"人君以德為外，以財為內，則是爭鬥其民，而施之以劫奪之教也。蓋財者人之所同欲，不能絜矩而欲專之，則民亦起而爭奪矣"* - "The ruler, with virtue as the external and wealth as the internal, results in contention and fighting among the people, applying it with the teaching of extortion. For those who seek wealth have a common desire; they cannot measure and regulate their desires and want to monopolize it. Then the people also rise and contend to snatch it."
+
+"是故財聚則民散，財散則民聚" - "Therefore, when wealth accumulates, people disperse; when wealth scatters, people gather."
+
+"外本內末故財聚，爭民施奪故民散，反是則有德而有人矣"* - "Wealth accumulates from external sources and gathers within; consequently, there is contention among the people for distribution, leading to the seizing of wealth, and hence the scattering of the people. Conversely, when this is reversed, there is virtue, and there are people."
+
+"是故言悖而出者，亦悖而入；貨悖而入者，亦悖而出" - "Therefore, words that are contrary when spoken are also contrary when entering; goods that are contrary when entering are also contrary when going out."
+
+"悖，布內反。悖，逆也。此以言之出入，明貨之出入也。自先慎乎德以下至此，又因財貨以明能絜矩與不能者之得失也"* - "Deviation means going against, implying a reversal or opposition to the established order. This discussion on deviation serves to explain the dynamics of entrance and exit, making clear the flow of goods. Starting from the initial caution regarding virtue, it has descended to this point. Furthermore, it uses wealth and goods to elucidate the gains and losses of those who can or cannot adhere to the established measure or standard."
+
+"康誥曰：「惟命不于常！」道善則得之，不善則失之矣" - "Duke Kang of Zhou said: 'It is only fate that does not follow the usual course! If one follows the path of virtue, then one obtains it; if one is not virtuous, then one loses it.'"
+
+"，言也。因上文引文王詩之意而申言之，其丁寧反覆之意益深切矣"* - "This is talking. Building upon the meaning of the quoted King's poem in the preceding text, he elaborates on it. The intention of careful repetition becomes even more profound."
+
+"楚書曰：「楚國無以為寶，惟善以為寶。」" - "The Chu state does not regard anything as treasure; it regards only virtue as treasure."
+
+"楚書，楚語。言不寶金玉而寶善人也"* - "The Chu writings, the Chu language: speaking not valuing gold and jade, but valuing virtuous people."
+
+"舅犯曰：「亡人無以為寶，仁親以為寶。」" - "Uncle Fan said, 'A deceased person has nothing to value, but benevolence and family are to be valued as treasures.'"
+
+"舅犯，晉文公舅狐偃，字子犯。亡人，文公時為公子，出亡在外也。仁，愛也。事見檀弓。此兩節又明不外本而內末之意"* - "Uncle Fan refers to Hu Yan, the uncle of Duke Wen of Jin, with the style name Zi Fan. The term 'the person who is away' refers to Duke Wen's son, who was in exile abroad during Duke Wen's time. Benevolence is love. The matter is observed in the case of Tan Gong. These two sections also clearly illustrate that the meaning is not beyond the main point but within the subsidiary context."
+
+"秦誓曰：「若有一个臣，斷斷兮無他技，其心休休焉，其如有容焉。人之有技，若己有之，人之彥聖，其心好之，不啻若自其口出，寔能容之，以能保我子孫黎民，尚亦有利哉。人之有技，媢疾以惡之，人之彥聖，而違之俾不通，寔不能容，以不能保我子孫黎民，亦曰殆哉"
+
+ 
 
 
 References
