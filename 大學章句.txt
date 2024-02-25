@@ -510,7 +510,9 @@ Paragraph 11
 
 "右傳之十章。釋治國平天下" - "In Chapter Ten of the Zuo Zhuan, the text elucidates the principles of governing the state and ensuring stability throughout the entire realm."
 
+"此章之義，務在與民同好惡而不專其利，皆推廣絜矩之意也。能如是，則親賢樂利各得其所，而天下平矣"* - "The significance of this chapter lies in aligning likes and dislikes with the people and not exclusively pursuing its own interests, all to promote the intention of extending principles and guidelines. If it can be done in this way, then being close to the virtuous and delighting in benefits, each obtaining what they desire, the world will be at peace"
 
+"凡傳十章：前四章統論綱領指趣，後六章細論條目功夫。其第五章乃明善之要，第六章乃誠身之本，在初學尤為當務之急，讀者不可以其近而忽之也" - "All transmitted in ten chapters: The first four chapters unify and discuss the main principles, pointing the way. The following six chapters elaborate on details and items, focusing on skillful efforts. Its fifth chapter clarifies the essence of goodness, the sixth chapter is the foundation of sincerity in one's character, especially crucial for beginners; readers should not neglect it, even though it is near."
 
 References
 ----------
