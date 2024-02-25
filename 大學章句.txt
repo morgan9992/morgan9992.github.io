@@ -380,6 +380,32 @@ Paragraph 10
 
 "所謂治國必先齊其家者，其家不可教而能教人者，無之。故君子不出家而成教於國：孝者，所以事君也；弟者，所以事長也；慈者，所以使眾也" - "What is meant by governing a country is that it must first put its own family in order. If one cannot manage and educate their own family but can instruct others, such a person is non-existent. Therefore, a gentleman achieves the instruction of the country without neglecting his own family. Filial piety is the means by which one serves the ruler, fraternal duty is the means by which one serves the elder, and compassion is the means by which one guides the multitude."
 
+"弟，去聲。長，上聲。身脩，則家可教矣；孝、弟、慈，所以脩身而教於家者也；然而國之所以事君事長使眾之道不外乎此。此所以家齊於上，而教成於下也"* - ""Younger brother, with a departing tone; elder, with a rising tone. If one cultivates their moral character, then the family can be taught. Filial piety, brotherhood, and kindness are the means to cultivate one's own person and teach within the family. However, the reason why the country serves the ruler, attends to the elders, and dispatches orders to the people is nothing more than this. Therefore, this is the way for the family to be orderly above and to teach and achieve below"
+
+"康誥曰「如保赤子」，心誠求之，雖不中不遠矣。未有學養子而后嫁者也！" - "Kang Gao states, 'It is like protecting a newborn child. With a sincere heart, seek it; although it may not be precise, it is not far away. There has never been one who educates and nurtures a son and then marries.'"
+
+"中，去聲。此引書而釋之，又明立教之本不假強為，在識其端而推廣之耳"* - "In the middle, it is the departing tone. This quotes the book and explains it. Furthermore, it clearly establishes that the essence of teaching does not rely on force. It is in recognizing its essence and extending it."
+
+"一家仁，一國興仁；一家讓，一國興讓；一人貪戾，一國作亂；其機如此。此謂一言僨事，一人定國" - "In one family practicing benevolence, the country thrives in benevolence. In one family practicing yielding, the country thrives in yielding. When one person is greedy and aggressive, it causes chaos in the country. This is the principle. This is called governing affairs with a single word; one person determines the fate of the country."
+
+"僨，音奮。一人，謂君也。機，發動所由也。僨，覆敗也。此言教成於國之效"* - "The pronunciation of 僨 is 'fen.' The term 一人 refers to the ruler. 機 is the pivot from which movement originates. 僨 implies overthrow or defeat. These words indicate that teachings lead to the effectiveness of the state."
+
+"堯舜帥天下以仁，而民從之；桀紂帥天下以暴，而民從之；其所令反其所好，而民不從。是故君子有諸己而后求諸人，無諸己而后非諸人。所藏乎身不恕，而能喻諸人者，未之有也" - "Yao and Shun governed the world with virtue, and the people followed. Jie and Zhou led with tyranny, and the people followed. When their commands contradicted their desires, the people did not comply. Therefore, a noble person reflects on oneself before seeking from others and refrains from criticizing others without self-reflection. One who lacks forgiveness within but still enlightens others is rare"
+
+"好，去聲。此又承上文一人定國而言。有善於己，然後可以責人之善；無惡於己，然後可以正人之惡。皆推己以及人，所謂恕也，不如是，則所令反其所好，而民不從矣。喻，曉也"* - "Good, with a departing tone. Moreover, this is spoken in reference to the previous text about one person determining the fate of the country. Having goodness towards oneself, then one can blame others for their goodness; without evil towards oneself, then one can correct others' evils. All are extended from oneself. All extend from oneself to others; this is what is called forgiveness. If not like this, then what is commanded will go against what is liked, and the people will not follow. Analogy, it means to understand."
+
+"故治國在齊其家" - "Therefore, governing the country is in harmonizing its household."
+
+"通結上文"* - "Understanding and Connecting with the Previous Text." 
+
+"詩云：「桃之夭夭，其葉蓁蓁；之子于歸，宜其家人。」宜其家人，而后可以教國人" - "The poem says, 'Peach trees are lush and tender; their leaves are luxuriant and flourishing; young men go out, returning to their homes; it is fitting for their family members. It is fitting for their family members, and thereafter, they can educate the people of the country."
+
+"夭，平聲。蓁，音臻。詩周南桃夭之篇。夭夭，少好貌。蓁蓁，美盛貌。興也。之子，猶言是子，此指女子之嫁者而言也。婦人謂嫁曰歸。宜，猶善也"* - "In the poetry section of Zhou Nan in the Book of Songs, there is a poem about '桃夭.' Delicate and charming, with a youthful and beautiful appearance, and luxuriant and flourishing, with a beautiful and prosperous appearance. In a lively state. '之子' is akin to saying '此子,' here indicating a woman who is about to get married. Women refer to marriage as '歸' (returning or going to a new home), which is similar to being virtuous."
+
+"云：「宜兄宜弟。」宜兄宜弟，而后可以教國人" - " "It is said, 'Should be elder brothers and younger brothers,' and only then can one teach the people of the country."
+
+"詩小雅蓼蕭篇"* - "The Poem of Small Elegance: Reed and Willow Pieces"
+
 
 
 
