@@ -221,6 +221,33 @@ Paragraph 1
 Paragraph 2 
 -----------
 
+"康誥曰：「克明德。」" - "The Announcement of Kang says: 'To overcome and be bright in virtue.'"
+
+"康誥，周書。克，能也"* - "The Edict of Kang, recorded in the Zhou Book. '克' means the capability or ability."
+
+"大甲曰：「顧諟天之明命。」" - "Dajia said, 'Considering the clear commands of heaven.'"
+
+"大，讀作泰。諟，古是字。大甲，商書。顧，謂常目在之也。諟，猶此也，或曰審也。天之明命，即天之所以與我，而我之所以為德者也。常目在之，則無時不明矣。"* - "大 is read as 泰. 諟 is an ancient character. Great armor is found in the Shang dynasty's writings. 顧 means constantly looking at it. 諟 is like this; some say it means careful examination. The clear command of heaven is the means by which heaven grants to me, and it is the reason by which I become virtuous. Always looking at it, there is no time when it is not clear."
+
+"帝典曰：「克明峻德。」" - "The emperor or deity in the classics says: 'Overcome brightness, tower in virtue.'"
+
+"峻，書作俊。帝典，堯典，虞書。峻，大也"* - "Majestic, the books are made to be excellent. Imperial classics, Yao's classics, and Yu's writings are majestic and great."
+
+"皆自明也" - "All are self-evident" 
+
+"結所引書，皆言自明己德之意"* - "Concluding the cited texts, all express the intention of making clear one's own virtue."
+
+"右傳之首章。釋明明德" - "The opening chapter of the Zuo Zhuan, providing an explanation that elucidates clear and bright moral virtue."
+
+"此通下三章至「止於信」，舊本誤在「沒世不忘」之下"* - "The interpretation of this [commentary] covers the next three chapters until 'stops at faith,' and the old edition mistakenly placed [it] below 'unforgettable." 
+
+Paragraph 3
+------------
+
+
+
+
+
 
 References
 ----------
