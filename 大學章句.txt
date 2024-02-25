@@ -154,8 +154,9 @@ Paragraph 1
 
 "止者，必至於是而不遷之意"* - "he one who ceases, certainly must arrive at this point, but without changing their mind"
 
-"至善，則事理當然之極也。言明明德、新民，皆當至於至善之地而不遷" - "When it comes to ultimate goodness, the underlying, connecting principle is naturally at its highest. Speaking to elucidate clear virtues and renweing people, all should arrive at the place of ultimate goodness without moving."
+"至善，則事理當然之極也。言明明德、新民，皆當至於至善之地而不遷"* - "When it comes to ultimate goodness, the underlying, connecting principle is naturally at its highest. Speaking to elucidate clear virtues and renweing people, all should arrive at the place of ultimate goodness without moving."
 
+"蓋必其有以盡夫天理之極，而無一毫人欲之私也。此三者，大學之綱領也"* - "Indeed, these must be a means to complete the utmost of heavenly principles, devoid of even a trace of desire. These three constitute the essential principles of the Great Learning.
 
 References
 ----------
