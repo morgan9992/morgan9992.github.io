@@ -490,13 +490,26 @@ Paragraph 11
 
 "生財有大道，生之者眾，食之者寡，為之者疾，用之者舒，則財恒足矣" - "There is a great way to generate wealth, those who generate it are many, those who consume or benefit from it are few, those who work for it do so earnestly, those who use or enjoy it do so leisurely, then wealth will always be sufficien"
 
-"恒，胡登反。呂氏曰：「國無遊民，則生者眾矣；朝無幸位，則食者寡矣；不奪農時，則為之疾矣；量入為出，則用之舒矣。愚按：此因有土有財而言，以明足國之道在乎務本而節用，非必外本內末而後財可聚也。自此以至終篇，皆一意也" - "Constantly, why ascend and revolt? Master Lü said, "If a country has no wandering people, then the number of those born is many. If there are no fortunate positions in the court, then there are few who eat. Not seizing the agricultural seasons, then sickness will come. Measure what comes in for what goes out, then its usage will be relaxed." The foolish one says: According to this, it is spoken because there is land and wealth. In order to make clear that the way to sufficiency for the country lies in focusing on the fundamentals and being frugal. It is not necessary to accumulate wealth by focusing on externalities, basics, internal affairs, and the end. From this point to the end of the text, all is of one mind."
+"恒，胡登反。呂氏曰：「國無遊民，則生者眾矣；朝無幸位，則食者寡矣；不奪農時，則為之疾矣；量入為出，則用之舒矣。愚按：此因有土有財而言，以明足國之道在乎務本而節用，非必外本內末而後財可聚也。自此以至終篇，皆一意也"* - "Constantly, why ascend and revolt? Master Lü said, "If a country has no wandering people, then the number of those born is many. If there are no fortunate positions in the court, then there are few who eat. Not seizing the agricultural seasons, then sickness will come. Measure what comes in for what goes out, then its usage will be relaxed." The foolish one says: According to this, it is spoken because there is land and wealth. In order to make clear that the way to sufficiency for the country lies in focusing on the fundamentals and being frugal. It is not necessary to accumulate wealth by focusing on externalities, basics, internal affairs, and the end. From this point to the end of the text, all is of one mind."
 
 "仁者以財發身，不仁者以身發財" - "The benevolent person, using wealth, develops the self; the non-benevolent person, using the self, develops wealth."
 
-"發，猶起也。仁者散財以得民，不仁者亡身以殖貨" - "To release, as if rising. A benevolent person disperses wealth to gain the people. A person lacking in benevolence loses their life using it to increase wealth."
+"發，猶起也。仁者散財以得民，不仁者亡身以殖貨"* - "To release, as if rising. A benevolent person disperses wealth to gain the people. A person lacking in benevolence loses their life using it to increase wealth."
 
-"未有上好仁而下不好義者也，未有好義其事不終者也，未有府庫財非其財者也" - 
+"未有上好仁而下不好義者也，未有好義其事不終者也，未有府庫財非其財者也" - "Never has there been one above excelling in benevolence while below lacking in righteousness. Never has there been one who is good in righteousness, and yet his endeavors do not reach completion. Never has there been wealth in the government treasuries that is not regarded as the people's wealth." 
+
+"上好仁以愛其下，則下好義以忠其上；所以事必有終，而府庫之財無悖出之患也"* - "The superior, being fond of benevolence, loves those beneath him; then, those below, fond of righteousness, are loyal to those above them. Therefore, affairs will certainly come to an end, and the wealth of the treasury will not have problems going contrary to this."
+
+"孟獻子曰：「畜馬乘不察於雞豚，伐冰之家不畜牛羊，百乘之家不畜聚斂之臣，與其有聚斂之臣，寧有盜臣。」此謂國不以利為利，以義為利也" - "Meng Xianzi said: Keeping horses for riding without observing chickens and pigs, cutting ice without raising cattle and sheep in the household, and in a family of a hundred chariots, not raising ministers who accumulate and exploit. Rather than having ministers who accumulate and exploit, would rather have ministers who are thieves. This is called a country that does not consider profit as profit but considers righteousness as profit."
+
+"畜，許六反。乘、斂，並去聲。孟獻子，魯之賢大夫仲孫蔑也。畜馬乘，士初試為大夫者也。伐冰之家，卿大夫以上，喪祭用冰者也。百乘之家，有采地者也。君子寧亡己之財，而不忍傷民之力；故寧有盜臣，而不畜聚斂之臣。此謂以下，釋獻子之言也"* - "Regarding the raising of animals, permit a change to six. Riding and collecting, both with the departing tone. Meng Xianzi, a virtuous grand officer of Lu, is Zhongsun Mie. Raising horses and riding them, scholars, in their initial attempts to become grand officers, engage in this practice. The family that cuts ice comprises high-ranking officers and above, who use ice in funeral ceremonies. The family with a hundred chariots comprises those who have acquired land. A noble person would rather lose their own wealth than be reluctant to harm the strength of the people. Hence, they would prefer treacherous ministers over those who hoard and accumulate. This is called following and abiding by, explaining the words of Xianzi (Meng Xianzi)."
+
+"長國家而務財用者，必自小人矣。彼為善之，小人之使為國家，菑害並至。雖有善者，亦無如之何矣！此謂國不以利為利，以義為利也" - "To govern a country and emphasize financial affairs must be done by individuals of low character. Those who act virtuously make individuals of low character serve the country, bringing calamities and harm together. Although there are virtuous individuals, there is also nothing to be done about it! This signifies a country that does not regard personal gain as gain but regards righteousness as gain." 
+
+"長，上聲。「彼為善之」，此句上下，疑有闕文誤字。自，由也，言由小人導之也。此一節，深明以利為利之害，而重言以結之，其丁寧之意切矣"* - "The term "長" is in the rising tone. The phrase "彼為善之" may be understood as "those who do good." Regarding this sentence and its context, there is a suspicion of missing or erroneous characters. The term "自" means "self" or "from," and "由" means "from" or "by," indicating that the words may be influenced or led by less honorable individuals. In this section, there is a deep understanding of the harm that comes from considering personal gain as gain, and there is a repeated emphasis to conclude or solidify the point, expressing a meticulous and careful intention."
+
+"右傳之十章。釋治國平天下" - "In Chapter Ten of the Zuo Zhuan, the text elucidates the principles of governing the state and ensuring stability throughout the entire realm."
+
 
 
 References
