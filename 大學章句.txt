@@ -174,6 +174,8 @@ Paragraph 1
 
 "得，謂得其所止"* - "Obtainment, it is said, is to obtain its stopping point"
 
+"物有本末，事有終始，知所先後，則近道矣" - "Things have their roots and branches, affairs have their end and beginning. Know the order of priorities, and then one is close to the Dao (the Way)."
+
 References
 ----------
 [1] - https://ctext.org/analects/xue-er/zh - 論語, 學而 - first section of The analects, Chinese text project 
