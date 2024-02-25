@@ -482,7 +482,21 @@ Paragraph 11
 
 "好人之所惡，惡人之所好，是謂拂人之性，菑必逮夫身" - "What good people hate, and bad people like, this is called going against human nature. Calamity will surely reach one's body."
 
+"菑，古災字。夫，音扶。拂，逆也。好善而惡惡，人之性也；至於拂人之性，則不仁之甚者也。自秦誓至此，又皆以申言好惡公私之極，以明上文所引南山有臺、節南山之意"* -  "菑 is an ancient character for disaster. Emphasizing the pronunciation '扶,' it means to go against or oppose. Liking the good and disliking the bad is human nature; when it comes to opposing human nature, it is those who lack benevolence to an extreme. From the Qin Dynasty's vows to this point, it is again all to express the extremes of likes and dislikes, public and private, to clarify the meaning of the previously cited '南山有臺' and '節南山.'" 
 
+"是故君子有大道，必忠信以得之，驕泰以失之" - "Therefore, a noble person possesses the great way; it is necessary to have loyalty and trustworthiness to obtain it, and arrogance and haughtiness lead to its loss."
+
+"君子，以位言之。道，謂居其位而修己治人之術。發己自盡為忠，循物無違謂信。驕者矜高，泰者侈肆。此因上所引文王、康誥之意而言。章內三言得失，而語益加切，蓋至此而天理存亡之幾決矣"* - "A noble person, in terms of their position, embodies the Way by residing in their social role and cultivating self-discipline to govern others. Sincerity involves utmost exertion and sacrifice, while trustworthiness entails following the natural order without deviation. Arrogance is characterized by pride and loftiness, and extravagance involves excess and lack of restraint. These principles are derived from the writings of King Wen and Kang Gao. Within the chapter, the merits and shortcomings of the three statements are discussed, and the language intensifies, indicating a critical moment where the fate of cosmic principles may be on the verge of determination."
+
+"生財有大道，生之者眾，食之者寡，為之者疾，用之者舒，則財恒足矣" - "There is a great way to generate wealth, those who generate it are many, those who consume or benefit from it are few, those who work for it do so earnestly, those who use or enjoy it do so leisurely, then wealth will always be sufficien"
+
+"恒，胡登反。呂氏曰：「國無遊民，則生者眾矣；朝無幸位，則食者寡矣；不奪農時，則為之疾矣；量入為出，則用之舒矣。愚按：此因有土有財而言，以明足國之道在乎務本而節用，非必外本內末而後財可聚也。自此以至終篇，皆一意也" - "Constantly, why ascend and revolt? Master Lü said, "If a country has no wandering people, then the number of those born is many. If there are no fortunate positions in the court, then there are few who eat. Not seizing the agricultural seasons, then sickness will come. Measure what comes in for what goes out, then its usage will be relaxed." The foolish one says: According to this, it is spoken because there is land and wealth. In order to make clear that the way to sufficiency for the country lies in focusing on the fundamentals and being frugal. It is not necessary to accumulate wealth by focusing on externalities, basics, internal affairs, and the end. From this point to the end of the text, all is of one mind."
+
+"仁者以財發身，不仁者以身發財" - "The benevolent person, using wealth, develops the self; the non-benevolent person, using the self, develops wealth."
+
+"發，猶起也。仁者散財以得民，不仁者亡身以殖貨" - "To release, as if rising. A benevolent person disperses wealth to gain the people. A person lacking in benevolence loses their life using it to increase wealth."
+
+"未有上好仁而下不好義者也，未有好義其事不終者也，未有府庫財非其財者也" - 
 
 
 References
