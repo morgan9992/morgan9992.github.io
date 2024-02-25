@@ -294,6 +294,27 @@ Paragraph 4
 Paragraph 5
 -----------
 
+"子曰：「聽訟，吾猶人也，必也使無訟乎！」無情者不得盡其辭。大畏民志，此謂知本" - "Listening to lawsuits, I am still just a human; certainly, I must make it so that there are no lawsuits! Those without feeling cannot fully present their arguments. Great is the fear of the will of the people; this is called knowing the root" 
+
+"猶人，不異於人也。情，實也。引夫子之言，而言聖人能使無實之人不敢盡其虛誕之辭。蓋我之明德既明，自然有以畏服民之心志，故訟不待聽而自無也。觀於此言，可以知本末之先後矣"* - "Similar to humans, not different from them. Feelings are indeed real. Quoting the words of Confucius, it is said that the sage has the ability to make those without genuine substance refrain from fully expressing their empty and deceptive words. Indeed, my clear moral integrity naturally has the means to awe and gain the submission of the hearts and minds of the people. Therefore, disputes need not be heard; they naturally cease to exist. Considering this statement, one can understand the prioritization of the fundamental and the incidental."
+
+"右傳之四章。釋本末" - The four chapters of the commentary, explaining the origin and conclusion
+
+"此章舊本誤在「止於信」下"* - ""In this chapter, the old edition is mistakenly located below '止於信.'"
+
+Paragraph 6
+-----------
+
+"此謂知本，" - "This means to know the origin,"
+
+"程子曰：「衍文也。」"* - "Cheng Zi said: 'Elaborative text.'"
+
+"此謂知之至也" - "This is called knowledge, the ultimate understanding."
+
+"此句之上別有闕文，此特其結語耳"* - "Above this sentence, there is missing text that is different; especially pay attention to its concluding words."
+
+
+
 References
 ----------
 [1] - https://ctext.org/analects/xue-er/zh - 論語, 學而 - first section of The analects, Chinese text project 
