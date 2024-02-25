@@ -419,6 +419,28 @@ Paragraph 10
 Paragraph 11
 ------------
 
+"所謂平天下在治其國者：上老老而民興孝，上長長而民興弟，上恤孤而民不倍，是以君子有絜矩之道也" - "What is meant by stabilizing the world lies in governing one's country. The superior promotes the elderly, and the people thrive in filial piety. The superior promotes the elders, and the people thrive in respecting their younger siblings. The superior cares for the orphans and widows, and the people do not betray. Therefore, a noble person possesses the way of the compass and square."
+
+"長，上聲。弟，去聲。倍，與背同。絜，胡結反。老老，所謂老吾老也。興，謂有所感發而興起也。孤者，幼而無父之稱。絜，度也。矩，所以為方也。言此三者，上行下效，捷於影響，所謂家齊而國治也。亦可以見人心之所同，而不可使有一夫之不獲矣。是以君子必當因其所同，推以度物，使彼我之間各得分願，則上下四旁均齊方正，而天下平矣"* - "Therefore, a person of virtue should follow that which is the same, deduce and use it as a standard to measure things, so that between others and ourselves, each can obtain their wishes. Then, the upper and lower, the four sides, will be evenly distributed, square, and upright, and the world will be at peace."
+
+"所惡於上，毋以使下；所惡於下，毋以事上；所惡於前，毋以先後；所惡於後，毋以從前；所惡於右，毋以交於左；所惡於左，毋以交於右：此之謂絜矩之道" - "What is disliked above, do not use to make lower. What is disliked below, do not use to serve above. What is disliked in front, do not use as first or second. What is disliked behind, do not use to follow before. What is disliked on the right, do not exchange with the left. What is disliked on the left, do not exchange with the right. This is called the way of standard and square."
+
+"惡、先，並去聲。此覆解上文絜矩二字之義。如不欲上之無禮於我，則必以此度下之心，而亦不敢以此無禮使之。不欲下之不忠於我，則必以此度上之心，而亦不敢以此不忠事之。至於前後左右，無不皆然，則身之所處，上下、四旁、長短、廣狹，彼此如一，而無不方矣。彼同有是心而興起焉者，又豈有一夫之不獲哉。所操者約，而所及者廣，此平天下之要道也。故章內之意，皆自此而推之"* - "This passage discusses the importance of maintaining a balanced and respectful approach in all aspects of life. It emphasizes the need to avoid disrespect from others by approaching them with humility and sincerity. The text suggests that when people share similar positive mindsets, harmony and mutual benefit can be achieved, leading to the proper governance of the world. The essential way to achieve this is by holding tight to principles while reaching broadly. The meaning within the chapters is derived from and propelled forward by this fundamental principle."
+
+
+"詩云：「樂只君子，民之父母。」民之所好好之，民之所惡惡之，此之謂民之父母" - "The poem states that music is meant only for virtuous individuals, who are considered the parents of the people. What the people truly like, they like, and what they truly dislike, they dislike. This is what is referred to as being the parents of the people"
+
+"樂，音洛。只，音紙。好、惡，並去聲，下並同。詩小雅南山有臺之篇。只，語助辭。言能絜矩而以民心為己心，則是愛民如子，而民愛之如父母矣"* - "Music, its sound flows like a river. Only sound, resembling paper. Good and evil, both with a falling tone, below sharing the same. In poetry, there is a composition named 'South Mountain Terrace.' Only, serving as a linguistic particle. Words can measure standards, using the hearts of the people as one's own, then it is like loving the people as children, and the people love it as parents."
+
+"詩云：「節彼南山，維石巖巖，赫赫師尹，民具爾瞻。」有國者不可以不慎，辟則為天下僇矣" - "As the poem says, before the Shang Dynasty lost its troops, they were able to match the Supreme Deity. Overseeing rituals in the Shang Dynasty, their stern commands were not easily altered. When the ruler follows the Way and gains the support of the people, then they obtain the state; if they lose the support of the people, then they lose the state."
+
+"喪，去聲。儀，詩作宜。峻，詩作駿。易，去聲。詩文王篇。師，眾也。配，對也。配上帝，言其為天下君，而對乎上帝也。監，視也。峻，大也。不易，言難保也。道，言也。引詩而言此，以結上文兩節之意。有天下者，能存此心而不失，則所以絜矩而與民同欲者，自不能已矣"* - "Mourning, with a departing tone. Ceremonies in poetry made appropriate. Lofty in poetry made excellent, with a departing tone. In the poetry and literature of King Wen. A teacher denotes the multitude, matching and confronting with the God above, speaking of being the ruler of the world and confronting the God above. Supervise to see, lofty means great. Not easy, indicating difficulty in preservation. The way means to speak, quoting poetry and saying this to connect the meanings of the two preceding sections. One who has the world, able to preserve this mindset without losing it, then the reason for holding moral standards and sharing desires with the people, oneself cannot stop."
+
+"是故君子先慎乎德。有德此有人，有人此有土，有土此有財，有財此有用" - "Therefore, the noble person should prioritize caution regarding virtue. With virtue, there are people; with people, there is land; with land, there is wealth; with wealth, there is utility."
+
+"先慎乎德，承上文不可不慎而言。德，即所謂明德。有人，謂得眾。有土，謂得國。有國則不患無財用矣"* - "First, be cautious about virtue. Continuing from the previous passage, speaking without caution is not permissible. Virtue, that is what is called illustrious virtue. Having people refers to gaining the support of the multitude. Having land refers to gaining a country. Having a country, then there is no worry about lacking wealth and resources."
+
+
 
 
 References
