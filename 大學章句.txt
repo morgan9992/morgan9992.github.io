@@ -156,7 +156,12 @@ Paragraph 1
 
 "至善，則事理當然之極也。言明明德、新民，皆當至於至善之地而不遷"* - "When it comes to ultimate goodness, the underlying, connecting principle is naturally at its highest. Speaking to elucidate clear virtues and renweing people, all should arrive at the place of ultimate goodness without moving."
 
-"蓋必其有以盡夫天理之極，而無一毫人欲之私也。此三者，大學之綱領也"* - "Indeed, these must be a means to complete the utmost of heavenly principles, devoid of even a trace of desire. These three constitute the essential principles of the Great Learning.
+"蓋必其有以盡夫天理之極，而無一毫人欲之私也。此三者，大學之綱領也"* - "Indeed, these must be a means to exhaust the utmost of heavenly principles, devoid of even a trace of desire. These three constitute the essential principles of the Great Learning.
+
+
+
+
+"知止而后有定，定而后能靜，靜而后能安，安而后能慮，慮而后能得" - "Know the end and then you can have stability; be stable and then you can be tranquil; be tranquil and then you can be at peace; be at peace and then you can carefully think; think carefully, and then you can attain"
 
 References
 ----------
