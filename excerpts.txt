@@ -2,7 +2,12 @@
 
 "明德者，人之所得乎天，而虛靈不昧，以具眾理而應萬事者也"* - "As for one with clear virtue, it is what they obtain from heaven, and the numinous emptiness is not obscured; it is because one possesses The principle of the myriad phenomena which is non different to all things."
 
+The term 虛靈 (xūlíng) was used by Zhu Xi to describe attributes of the mind that is, empty (虛) and spirit (靈). Begining with the former, we can understand 'empty' with the analogy of a mirror (many neo-confucian scholars use this explanation) ; a mirror that is reflecting no object is empty and it is also this inherent emptiness that allows to reflect objects in the first place, likwise is the human mind empty in its original state therefore it can encounter and accept external objects. 'Spirit' is considered a seperate property of the mind ; with the same analogy: although it is inherently empty, the essence of a mirror can be said to depend on its function of reflecting objects and this essence is the actual action of the mind interacting with external objects.  虛靈 is considered to be an attribute that only the human mind posseses (ie. animals don't have it) since animals don't have the ability to discern right from wrong or investiagte the fundamental principles behind things. It was also taught that 靈 arised from the combination of li and qi or for those who held that the mind was constituted of purely qi only, they insisted that the 'spirit' aspect of the mind arised from the uniqueness of the heart itself, which is the clearest and most precise part of the qi.
+
 "但為氣稟所拘，人欲所蔽，則有時而昏；然其本體之明，則有未嘗息者"* - "yet bound by an endowed disposition, and obstructed by desires, there are times when [the mind] is confused. However, its original state is clear though there has never been a moment of stillness."
+
+following from the above concept of 虛靈, emptiness is obscured and tinged by desire. 
+
 
 "故學者當因其所發而遂明之，以復其初也。新者，革其舊之謂也，言既自明其明德，又當推以及人，使之亦有以去其舊染之污也"* - "Therefore, learners should understand it according to what arises from it, thereby restoring its original state. The new is what is called the replacement of the old. their speech should already self-illuminate their bright virtue, and also should serve to reach out to help others, Making it also have a way to remove the defilements of its old stains".       
 
@@ -22,3 +27,5 @@
 
 "治，去聲，後放此。物格者，物理之極處無不到也。知至者，吾心之所知無不盡也。知既盡，則意可得而實矣，意既實，則心可得而正矣。脩身以上，明明德之事也。齊家以下，新民之事也。物格知至，則知所止矣。意誠以下，則皆得所止之序也"* - "To govern, it is set aside after the departing tone. The principle of things reaches every corner of the physical world. When knowledge reaches its utmost, there is nothing my heart does not know exhaustively. When knowledge is exhausted, intent can be made real, and when intent is made real, the heart can be made upright. Cultivating oneself and beyond is the business of illuminating moral virtues. Organizing one's family and below is the business of cultivating a new generation. When the principle of things is understood to the utmost, one knows where to stop. When intent is sincere and follows below, all attains the sequence of where to stop."
 
+
+"湯之盤銘曰：「苟日新，日日新，又日新。」" - "The inscription on Emperor Tang's plate conveys the idea of constant renewal or innovation, expressing the notion that if one strives for renewal every day, and this process is repeated day by day, then there is an additional layer of renewal or innovation. In summary, the message emphasizes the importance of continual improvement and innovation in daily life."
