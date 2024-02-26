@@ -140,13 +140,18 @@ Paragraph 1
 -----------
 "大學之道，在明明德，在親民，在止於至善" - "the way of great learning is to actualise illustrious virtue, to love the people and to rest in the highest excellence" 
 
+. The way of great learning is not merely an intellectual pursuit to method to reach true goodness of character
+
 "程子曰：「親，當作新"* - "Master Cheng said 'one should renew oneself"
 
 "大學者，大人之學也"* - "The Great Learning is the learning of the one of high virtue".
 
 "明，明之也"* - "clear, indeed it is clear" 
 
-"明德者，人之所得乎天，而虛靈不昧，以具眾理而應萬事者也"* - "As for one with clear virtue, it is what they obtain from heaven, and the luminous spirit is not obscured; it is because one possesses The principle of the myriad phenomena which is non different to all things."
+"明德者，人之所得乎天，而虛靈不昧，以具眾理而應萬事者也"* - "As for one with clear virtue, it is what they obtain from heaven, and the numinous emptiness is not obscured; it is because one possesses The principle of the myriad phenomena which is non different to all things."
+
+
+
 
 "但為氣稟所拘，人欲所蔽，則有時而昏；然其本體之明，則有未嘗息者"* - "yet bound by an endowed disposition, and obstructed by desires, there are times when [the mind] is confused. However, its original state is clear; there has never been a moment of stillness."
 
@@ -157,6 +162,8 @@ Paragraph 1
 "至善，則事理當然之極也。言明明德、新民，皆當至於至善之地而不遷"* - "When it comes to ultimate goodness, the underlying, connecting principle is naturally at its highest. Speaking to elucidate clear virtues and renweing people, all should arrive at the place of ultimate goodness without moving."
 
 "蓋必其有以盡夫天理之極，而無一毫人欲之私也。此三者，大學之綱領也"* - "Indeed, these must be a means to exhaust the utmost of heavenly principles, devoid of even a trace of desire. These three constitute the essential principles of the Great Learning.
+
+
 
 "知止而后有定，定而后能靜，靜而后能安，安而后能慮，慮而后能得" - "Know the end and then you can have stability; be stable and then you can be tranquil; be tranquil and then you can be at peace; be at peace and then you can carefully think; think carefully, and then you can attain"
 
@@ -523,4 +530,7 @@ References
 
 [3] - https://iep.utm.edu/zhu-xi-chu-hsi-chinese-philosopher/#H2 - internet encyclopedia of philosophy
 
-[4] - Confucianism: A Very Short Introduction by Daniel K. Gardner (isbn: 978-0195398915), pp. 34-35
+[4] - Confucianism: A Very Short Introduction by Daniel K. Gardner (isbn: 9780195398915), pp. 34-35
+
+[5] - 17세기 조선, 마음 의 철학: 송 시열 학단 의 마음 에 관한 탐구 (isbn: 9788967352264)  
+
