@@ -1,3 +1,5 @@
+https://ctext.org/si-shu-zhang-ju-ji-zhu/zhong-yong-zhang-ju/zhs
+
 中庸何為而作也？子思子憂道學之失其傳而作也。蓋自上古聖神繼天立極，而道統之傳有自來矣。其見於經，則「允執厥中」者，堯之所以授舜也；「人心惟危，道心惟微，惟精惟一，允執厥中」者，舜之所以授禹也。堯之一言，至矣，盡矣！而舜復益之以三言者，則所以明夫堯之一言，必如是而後可庶幾也
 "What is the doctrine of the mean and why was it written ? The Doctrine of the Mean was written because Zisi and Ziyu were concerned about the deviation in the transmission of the way and learning. Since ancient times, sages have continued the Heavenly mandate, ensuring the continuous transmission of the way. In the classics, Yao's* method of instructing Shun* was to adhere sincerely to the mean, emphasizing balance. Shun, in turn, applied the principle in instructing Yu*, emphasizing the importance of purity and unity. Yao's single word was ultimate and exhaustive, and Shun's addition of three words clarified Yao's teaching, making it more understandable."
 
@@ -14,5 +16,15 @@
 
 *Yan Hui (https://en.wikipedia.org/wiki/Yan_Hui) the favorite disciple of confucius.
 
+熹自蚤岁即尝受读而窃疑之，沈潜反复，盖亦有年，一旦恍然似有以得其要领者，然后乃敢会众说而折其中，既为定著章句一篇，以俟后之君子。而一二同志复取石氏书，删其繁乱，名以辑略，且记所尝论辩取舍之意，别为或问，以附其后。然后此书之旨，支分节解、脉络贯通、详略相因、巨细毕举，而凡诸说之同异得失，亦得以曲畅旁通，而各极其趣。虽于道统之传，不敢妄议，然初学之士，或有取焉，则亦庶乎行远升高之一助云尔。
+"Since his early youth, Xi promptly received education and, while studying, secretly harbored doubts. Immersing deeply in contemplation repeatedly, for many years, he suddenly realized as if having grasped its essential points. Afterward, he dared to gather various opinions and sift through them. Having already established a fixed text with clear expressions, to await later scholars. And one or two like-minded individuals again retrieved Shi's* book, deleting its complexity and disorder, naming it with concise editing. Furthermore, recording the intention of previous discussions and separately including it for occasional inquiry, attaching it afterward. Thereafter, the main ideas of this book, dividing it into sections for analysis, connecting the main threads, being detailed and concise, and encompassing both major and minor details. And regarding the similarities, differences, gains, and losses of all opinions, one can also smoothly navigate through various viewpoints, each reaching its own destination. Although within the transmission of the way tradition, not daring to recklessly discuss. However, for beginners, some may gain something from it, and then it might also somewhat assist in progressing far and ascending high."*
 
+*The names in this part can be confusing Xi just refers to Zhu Xi himself so could more apporiately be reandered 'I', Shi refers to Zisi (https://en.wikipedia.org/wiki/Zisi)
 
+淳熙己酉春三月戊申，新安朱熹序
+"In the spring of the Chunxi era, in the third month of the cyclical year Jiyou, on the day Wushen, Zhu Xi wrote the preface in Xin'an"
+
+子程子曰：“不偏之谓中，不易之谓庸。中者，天下之正道，庸者，天下之定理。”此篇乃孔门传授心法，子思恐其久而差也，故笔之于书，以授孟子。其书始言一理，中散为万事，末复合为一理，“放之则弥六合，卷之则退藏于密”，其味无穷，皆实学也。善读者玩索而有得焉，则终身用之，有不能尽者矣。
+"Chengzi said: "Being balanced is termed 'center,' being unchanging is termed 'ordinary.' The center represents the right path of the world, while the ordinary signifies the established principles. This passage is the transmission of Confucius' teachings, with Zisi fearing potential deviations over time. Therefore, it was written down in a book to teach Mengzi. The book starts with one principle, branches into various matters, and eventually reunites into a single principle. It expands to fill the six directions and contracts into secrecy. Its essence is profound, and all of it is practical knowledge. Skilled readers explore and benefit from it, applying it throughout their lives, although there are aspects that cannot be fully exhausted."
+	
+天命之谓性，率性之谓道，修道之谓教。命，犹令也。性，即理也。天以阴阳五行化生万物，气以成形，而理亦赋焉，犹命令也。于是人物之生，因各得其所赋之理，以为健顺五常之德，所谓性也。率，循也。道，犹路也。人物各循其性之自然，则其日用事物之间，莫不各有当行之路，是则所谓道也。修，品节之也。性道虽同，而气禀或异，故不能无过不及之差，圣人因人物之所当行者而品节之，以为法于天下，则谓之教，若礼、乐、刑、政之属是也。盖人之所以为人，道之所以为道，圣人之所以为教，原其所自，无一不本于天而备于我。学者知之，则其于学知所用力而自不能已矣。故子思于此首发明之，读者所宜深体而默识也。
