@@ -1,11 +1,10 @@
 Definitions 
 -----------
-Homonyms - things with the same name (can be what they receive via predicate) and different definitions
-Synonyms - things with the same name and have the same definition of being 
-Paronyms - things whose names derive from different roots 
-Genus - a class that species can be grouped into based on shared characteristics 
 Differentiae - qualities of species that differentiate them inside a genus  
-
+Genus - a class that species can be grouped into based on shared characteristics 
+Homonyms - things with the same name (can be what they receive via predicate) and different definitions
+Paronyms - things whose names derive from different roots 
+Synonyms - things with the same name and have the same definition of being 
 
 Four-Fold Classification
 ------------------------
