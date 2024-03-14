@@ -1,0 +1,26 @@
+Four-Fold Classification
+------------------------
+Said In A Subject (SI) - contained within something else | T: 'Accidental' ; F: 'Non Accidental'  
+
+Said Of A Subject (SO) - within the Scope of something else | T: 'Universal' ; F: 'Particular' 
+
+	--> thus follows four-fold classification 
+		
+		- Primary Substances (Non Accidental Particular)
+		  eg. Individual Man 
+		- Essential Universals (Non Accidental Universal)
+		  eg. Man in General
+		- Definite Qualities (Accidental Particular)
+		  eg. Specific Redness of a Flower 
+		- General qualities (Accidental Universal) 
+		  eg. General Redness of a Flower 
+			
+			Ten Things
+			----------			
+		    |---------------------------|
+			|Substance   | Other Nine   |           
+			|            |              |
+			|SI:F ; SO:F |SI:T ; SO:T   |
+			|----------- |--------------| 
+			|SI:F ; SO:T |SI:T ; SO:F   |
+			|------------|--------------| 
