@@ -36,4 +36,14 @@ Said Of A Subject (SO) - within the Scope of something else | T: 'Universal' ; F
 							- Capable of Perception — Animals
 								- Irrational — Non-Human Animals
 								- Rational — Humans
+			- Quantity
+				- Continuous Quantities
+					- line
+					- surface
+					- body
+					- time
+					- place
+				- Discrete Quantities
+					- number
+					- speech
 
