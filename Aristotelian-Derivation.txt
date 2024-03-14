@@ -47,3 +47,23 @@ Said Of A Subject (SO) - within the Scope of something else | T: 'Universal' ; F
 					- number
 					- speech
 
+			- Quality
+				- Habits and Dispositions
+				- Natural Capabilities and Incapabilities
+				- Affective Qualities and Affections
+				- Shape
+
+			- Relatives
+
+			- Somewhere 
+
+			- Sometime
+
+			- Being in a Position
+
+			- Having
+
+			- Actng 
+
+			- Being Acted Upon
+
