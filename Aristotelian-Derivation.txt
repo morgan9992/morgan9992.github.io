@@ -17,10 +17,23 @@ Said Of A Subject (SO) - within the Scope of something else | T: 'Universal' ; F
 			
 			Ten Things
 			----------			
-		    |---------------------------|
+		        |---------------------------|
 			|Substance   | Other Nine   |           
 			|            |              |
 			|SI:F ; SO:F |SI:T ; SO:T   |
 			|----------- |--------------| 
 			|SI:F ; SO:T |SI:T ; SO:F   |
 			|------------|--------------| 
+
+                        - Substance
+				- Immobile Substances — Unmoved Mover(s) 
+				- Mobile Substances — Body
+					- Eternal Mobile Substances — Heavens
+					- Destructible Mobile Substances — Sublunary bodies
+						- Unensouled Destructible Mobile Substances — Elements
+						- Ensouled Destructible Mobile Substances — Living things
+							- Incapable of Perception — Plants
+							- Capable of Perception — Animals
+								- Irrational — Non-Human Animals
+								- Rational — Humans
+
