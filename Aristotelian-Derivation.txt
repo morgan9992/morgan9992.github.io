@@ -87,7 +87,12 @@ Said Of A Subject (SO) - within the Scope of something else | T: 'Universal' ; F
 			Number - F
 			Time - F
 			Speech - F
-			
+
+			. Every other Thing (10 Things) doesen't posses a quantity aspect
+			. of the quantities, only place can admit of contraries
+			. No more or less comparision 
+			. can be equal or unequal to each other 
+
 			- Quality
 				- Habits and Dispositions
 				- Natural Capabilities and Incapabilities
@@ -95,6 +100,22 @@ Said Of A Subject (SO) - within the Scope of something else | T: 'Universal' ; F
 				- Shape
 
 			- Relatives
+				- State
+				- Condition
+				- Perception
+				- Knowledge
+				- Position
+			Axioms:
+			
+			. When given correctly, relatives reciprocate 
+			. Can have contraries ; notable exceptions:
+			Quantitative (eg. Double, Triple etc.)
+
+			. Don't exist without the thing to which they are relative ; notable exceptions:
+			Knowable & knowledge 
+			Perceptable & Perceive 
+
+			. Knowledge of a relative comparision must necessarily mean knowledge of both things which are relatives 
 
 			- Somewhere 
 
