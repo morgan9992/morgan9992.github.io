@@ -160,4 +160,17 @@ Axioms:
 . All contraries must either be in the same genus or in contrary genera, or be themselves genera
 . Contraries must belong to the same thing - either in same genus or species (eg. Sickness and health exist in an animals body) 
 
+- Prior
+	- Time
+	- Implication of Existence (eg. if there is two there must at one time had been one ; doesen't hold other way around)
+	- Sequence (eg. In a speech, the introduction comes prior to the conclusion)
+	- Prior by nature (in terms of status or virtue)
+	- True statements (a things existence proceeds the validity of the stamenet about it's existence)
+	- Genera as prior to species 
+- Simultaneity
+	- Come into existence at same time 
+	- reciprocality ( eg. Double dosen't precede half thus they are simultaneous) 
+	- Coordinate species of the same genus (eg. the genus animal is divided into bird, beast and animal which are the direct subclassifications of animal 	and thus none of the 3 are prior to the other 2.)
+
+- Change 
 
