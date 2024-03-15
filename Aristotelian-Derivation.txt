@@ -105,6 +105,15 @@ Said Of A Subject (SO) - within the Scope of something else | T: 'Universal' ; F
 			Many Natural Capabilities (eg. Boxer,runner)
 			cases in which the quality differs from the affection we say something has to be qualified (eg. virtue for someone to be good)
 
+			. Can have contraries ; notable exceptions:
+			Some Shapes (eg. square, triangle etc.)
+			Some Natural Capabilities and Incapabilities (eg. Boxer, Runner etc.) 
+
+			. Can have more or less comparisions ; notable exceptions  
+			Some Natural Capabilities and Incapabilities (eg. Boxer, Runner etc.) 
+			Shapes
+
+			. It is through qualities that things are rendered similar or dissimilar 
 
 			- Relatives
 				- State
@@ -123,6 +132,7 @@ Said Of A Subject (SO) - within the Scope of something else | T: 'Universal' ; F
 
 			. Knowledge of a relative comparision must necessarily mean knowledge of both things which are relatives 
 
+			
 			- Somewhere 
 
 			- Sometime
@@ -134,4 +144,20 @@ Said Of A Subject (SO) - within the Scope of something else | T: 'Universal' ; F
 			- Actng 
 
 			- Being Acted Upon
+- Opposites 
+	- Relatives
+	- Contraries
+	- Privation and Possession
+	- Affirmation and Negation
+Axioms:
+. Opposed relatives are called just what they are (eg. Double and it's contrary are both exactly the same as each other except for being opposites (X2 and /2)
+. Contraries are called opposingly (ie. the alternate way to first axiom eg. black and White)
+. If one of two opposites must exist in a subject, then no intermediate can occur (eg. body can either be considered healthy or sick)
+. provation and possession re said in relation to whatever possession (or not) of said thing naturally occurs in 
+. Distinction between privation and to be deprived (eg. blindness is a privation whereas being blind is deprived of sight)
+. What underlies an affirmation or negation is not itself an affirmation or negation 
+. If One thing exists, it is not required that its contrary exists 
+. All contraries must either be in the same genus or in contrary genera, or be themselves genera
+. Contraries must belong to the same thing - either in same genus or species (eg. Sickness and health exist in an animals body) 
+
 
