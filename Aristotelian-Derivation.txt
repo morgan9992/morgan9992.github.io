@@ -8,19 +8,19 @@ Synonyms - things with the same name and have the same definition of being
 
 Axioms
 ------
-When one thing is predicated of another, whatever is said of the predicated is also said of the predicating
+. When one thing is predicated of another, whatever is said of the predicated is also said of the predicating
 
-Differentiae of different genera that aren't subordinate to each other must necessarily themselves be different 
+. Differentiae of different genera that aren't subordinate to each other must necessarily themselves be different 
 
-It is possible for Differentiae to be shared in genera that are subordinate to one another
+. It is possible for Differentiae to be shared in genera that are subordinate to one another
 
-The ten things (below), when affirmed by themselves aren't deemed true or false but Instead, it is the combination of them that can be considered so.
+. The ten things (below), when affirmed by themselves aren't deemed true or false but Instead, it is the combination of them that can be considered so.
 
-When one thing is of another, it is predicated of the subject and therefore the name and definition are inherited from that thing
+. When one thing is of another, it is predicated of the subject and therefore the name and definition are inherited from that thing
 
-differentia are predicated of that which has said differentia 
+. Differentia are predicated of that which has said differentia 
 
-everything called from substances and differentia are called so synonymously  
+. Everything called from substances and differentia are called so synonymously  
 substance 
 
 Four-Fold Classification
@@ -61,6 +61,12 @@ Said Of A Subject (SO) - within the Scope of something else | T: 'Universal' ; F
 							- Capable of Perception — Animals
 								- Irrational — Non-Human Animals
 								- Rational — Humans
+			Axioms: 
+			. Have no contratries 
+			. No more or less comparision 
+			. Everything that isn't a primary substance is either said of it or present in it
+			. a substance, numerically one and the same can receive contrays (eg. at different times)
+
 			- Quantity
 				- Continuous Quantities
 					- line
@@ -71,7 +77,17 @@ Said Of A Subject (SO) - within the Scope of something else | T: 'Universal' ; F
 				- Discrete Quantities
 					- number
 					- speech
-
+			Axioms:
+			. Definite quantities have no contrary 
+			. Composed of parts which have position in relation to one another:
+			line - T
+			Surface - T 	
+			Body - T
+			place - T 
+			Number - F
+			Time - F
+			Speech - F
+			
 			- Quality
 				- Habits and Dispositions
 				- Natural Capabilities and Incapabilities
