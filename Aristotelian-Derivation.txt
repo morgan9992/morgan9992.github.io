@@ -94,10 +94,17 @@ Said Of A Subject (SO) - within the Scope of something else | T: 'Universal' ; F
 			. can be equal or unequal to each other 
 
 			- Quality
-				- Habits and Dispositions
+				- States and Conditions 
 				- Natural Capabilities and Incapabilities
 				- Affective Qualities and Affections
 				- Shape
+			Axioms:
+			. States are distinguished from conditions based upon their length of time being asociated with the subject
+			. All states are necessarily also conditions but not all conditions are states 
+			. Things said to be qualified are named paronymously with respect to the corresponding quality ; notable exceptions:
+			Many Natural Capabilities (eg. Boxer,runner)
+			cases in which the quality differs from the affection we say something has to be qualified (eg. virtue for someone to be good)
+
 
 			- Relatives
 				- State
@@ -106,7 +113,6 @@ Said Of A Subject (SO) - within the Scope of something else | T: 'Universal' ; F
 				- Knowledge
 				- Position
 			Axioms:
-			
 			. When given correctly, relatives reciprocate 
 			. Can have contraries ; notable exceptions:
 			Quantitative (eg. Double, Triple etc.)
