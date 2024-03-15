@@ -6,6 +6,23 @@ Homonyms - things with the same name (can be what they receive via predicate) an
 Paronyms - things whose names derive from different roots 
 Synonyms - things with the same name and have the same definition of being 
 
+Axioms
+------
+When one thing is predicated of another, whatever is said of the predicated is also said of the predicating
+
+Differentiae of different genera that aren't subordinate to each other must necessarily themselves be different 
+
+It is possible for Differentiae to be shared in genera that are subordinate to one another
+
+The ten things (below), when affirmed by themselves aren't deemed true or false but Instead, it is the combination of them that can be considered so.
+
+When one thing is of another, it is predicated of the subject and therefore the name and definition are inherited from that thing
+
+differentia are predicated of that which has said differentia 
+
+everything called from substances and differentia are called so synonymously  
+substance 
+
 Four-Fold Classification
 ------------------------
 Said In A Subject (SI) - contained within something else | T: 'Accidental' ; F: 'Non Accidental'  
