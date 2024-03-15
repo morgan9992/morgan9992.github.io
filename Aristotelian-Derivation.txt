@@ -173,4 +173,12 @@ Axioms:
 	- Coordinate species of the same genus (eg. the genus animal is divided into bird, beast and animal which are the direct subclassifications of animal 	and thus none of the 3 are prior to the other 2.)
 
 - Change 
+	- Generation
+	- Destruction
+	- Increase
+	- Diminution
+	- Alteration
+	- Change of place
+Axioms:
+. Have contraries 
 
