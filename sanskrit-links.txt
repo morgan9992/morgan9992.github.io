@@ -2,3 +2,5 @@ http://www.yesvedanta.com/transliterate/ - transliterator
 https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc2/index.php
 https://www.learnsanskrit.cc/
 https://buddhism.lib.ntu.edu.tw/en/lesson/
+https://web.archive.org/web/20080401004814/http://is1.mum.edu/vedicreserve/index.htm
+https://sanskritdocuments.org/
